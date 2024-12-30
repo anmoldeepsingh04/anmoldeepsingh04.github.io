@@ -3,11 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+first_name: Anmoldeep
+middle_name:
+last_name: Singh
+email: anmoldeep1268@gmail.com
+linkedIn: https://www.linkedin.com/in/anmoldeepsingh04/
+Best way to reach me is to send a text over LinkedIn!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -15,7 +16,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en, de # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anmoldeepsingh04.github.io # the base hostname & protocol for your site
@@ -32,7 +33,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -69,6 +70,53 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+acm_id: # your dl.acm.org/profile/id
+blogger_url: # your blogger URL
+bluesky_url: # your bluesky URL
+dblp_url: # your DBLP profile url
+discord_id: # your discord id (18-digit unique numerical identifier)
+facebook_id: # your facebook id
+flickr_id: # your flickr id
+github_username: anmoldeepsingh04 # your GitHub user name
+gitlab_username: # your GitLab user name
+ieee_id: # your ieeexplore.ieee.org/author/id
+instagram_id: # your instagram id
+kaggle_id: # your kaggle id
+keybase_username: # your keybase user name
+lastfm_id: # your lastfm id
+lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+linkedin_username: anmoldeepsingh04 # your LinkedIn user name
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+medium_username: # your Medium username
+orcid_id: # your ORCID ID
+osf_id: # your OSF ID
+pinterest_id: # your pinterest id
+publons_id: # your ID on Publons
+quora_username: # your Quora username
+research_gate_profile: # your profile on ResearchGate
+scholar_userid: # your Google Scholar ID
+scopus_id: # your profile on Scopus
+semanticscholar_id: # your Semantic Scholar ID
+spotify_id: # your spotify id
+stackoverflow_id: # your stackoverflow id
+telegram_username: # your Telegram user name
+unsplash_id: # your unsplash id
+wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+whatsapp_number: +919999999999 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+wikidata_id: # your wikidata id
+wikipedia_id: # your wikipedia id (Case sensitive)
+work_url: # work page URL
+x_username: # your X handle
+youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+zotero_username: # your zotero username
+
+contact_note: >
+  The best way to reach me is via email or text me on LinkedIn.
+
+# -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
@@ -87,8 +135,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Blog Posts # blog_name will be displayed in your blog page
+blog_description: canvas for me to pain pictures using math and programming
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -123,12 +171,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -268,15 +310,15 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+# display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Singh]
+  first_name: [Anmoldeep]
 
   style: apa
   locale: en
