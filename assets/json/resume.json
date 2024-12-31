@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Anmoldeep Singh",
-    "label": "Graduate Engineer Trainee",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "anmoldeep1268@gmail.com",
-    "phone": "9682118998",
-    "url": "https://anmoldeepsingh04.github.io/",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "Pune",
-      "countryCode": "India",
-      "region": "Maharashtra"
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "Thermax Private Limited, Pune",
+      "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
@@ -56,17 +56,6 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    },
-    {
-      "institution": "India Institute of Technology, Goa",
-      "location": "Goa, India",
-      "url": "https://www.uzh.ch/",
-      "area": "Mechanical Engineering",
-      "studyType": "Bachelor in Technology",
-      "startDate": "2018-08-08",
-      "endDate": "2022-05-30",
-      "score": "7.85",
-      "courses": ["Mech Related"]
     }
   ],
   "awards": [
