@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anmoldeep
 middle_name:
 last_name: Singh
+short_name : A. Singh
 email: anmoldeep1268@gmail.com
 linkedIn: https://www.linkedin.com/in/anmoldeepsingh04/
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
