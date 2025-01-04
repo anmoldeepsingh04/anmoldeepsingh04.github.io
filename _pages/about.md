@@ -8,11 +8,11 @@ subtitle: Under Development. Check back soon!
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>C-101, Vision Ace Society</p>
+    <p>Bhumkar Chowk, Tathawade</p>
+    <p>Pune, Maharashtra, India</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,4 +20,5 @@ social: true # includes social icons at the bottom of the page  --- Write your b
 ---
 
 The website is under developmet as I have recently taken up this project. Majority content on the website as of now is from a template that I am using for development.I am as excited as I am confused because Web-Development is something that I have never tried before but having my personal website has been a long-standing goal for me. Please check back by mid-February, the site will be up and running! 
+
 Thank you, smile a little more and I hope you'll have a great day ahead!
