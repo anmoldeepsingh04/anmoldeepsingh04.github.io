@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: AbouT
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle: Under Development. Check back soon!
