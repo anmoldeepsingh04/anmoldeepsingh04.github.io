@@ -1,14 +1,10 @@
 github_users:
   - anmoldeepsingh04
-  - alshedivat
 
-repo_description_lines_max: 2
+repo_description_lines_max: 1
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - anmoldeepsingh04/ComputationalFluidDynamics
+  - anmoldeepsingh04/CombustionFundamentals
+  - anmoldeepsingh04/Convection-Diffusion
+  - anmoldeepsingh04/codes 
