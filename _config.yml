@@ -116,7 +116,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  The best way to reach me is via email or text me on LinkedIn.
+  The best way to reach me is via email or text on LinkedIn.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -676,7 +676,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: https://drive.google.com/file/d/1Gu0YRyOCm1v9PboTgqxwdKqMd0sJXvA7/view?usp=sharing # assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
   - work
