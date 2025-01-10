@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Anmoldeep Singh",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "anmoldeep1268@gmail.com",
+    "phone": "(+91) 9682877811",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
@@ -51,9 +51,9 @@
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "studyType": "BTech",
+      "startDate": "2018-08-08",
+      "endDate": "2022-05-31",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
