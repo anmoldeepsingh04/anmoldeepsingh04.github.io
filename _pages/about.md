@@ -10,8 +10,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>C-101, Vision Ace Society</p>
-    <p>Bhumkar Chowk, Tathawade</p>
     <p>Pune, Maharashtra, India</p>
 
 news: false # includes a list of news items
@@ -21,6 +19,6 @@ social: true # includes social icons at the bottom of the page  --- Write your b
 
 The website is under developmet as I have recently taken up this project. Majority content on the website as of now is from a template that I am using for development. I am as excited as I am confused because Web-Development is something that I have never tried before but having my personal website has been a long-standing goal for me.
 
-Please check back by mid-February, the site will be up and running! 
+Please check back soon, the site will be up and running! 
 
 Thank you, smile a little more and I hope you'll have a great day ahead!
