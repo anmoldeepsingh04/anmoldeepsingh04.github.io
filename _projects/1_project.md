@@ -35,7 +35,7 @@ Progress Variable-based model to simulate and analyze turbulent flame dynamics
 ● Achieved significant reduction in storage space requirement compared to the
 OpenFOAM-FPV model
 
-<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -101,4 +101,4 @@ Here's the code for the last row of images above: -->
 </div>
 ``` -->
 
-<!-- {% endraw %} -->
+<!-- {% endraw %}
