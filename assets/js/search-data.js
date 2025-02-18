@@ -367,11 +367,16 @@ ninja.data = [{
           description: "Go-Kart Design Challenge",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-minicea",
+          title: 'MiniCEA',
+          description: "Thermochemical calculator to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-smart-boiler-control",
           title: 'Smart Boiler Control',
           description: "Using Machine Learning and Predictive Modeling for pressure and water-level control",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
