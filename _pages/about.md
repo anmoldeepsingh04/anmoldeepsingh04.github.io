@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 subtitle: Thermax Limited | IIT Goa
 subtitle: <a href='https://www.thermaxglobal.com/'> Innovation Engineer at Thermax</a>.
 
