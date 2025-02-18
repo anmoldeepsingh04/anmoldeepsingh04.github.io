@@ -1,11 +1,9 @@
 ---
 layout: about
-title: "**About**"
+title: About
 permalink: /
-subtitle: |
-  Thermax Limited | IIT Goa
-  Innovation Engineer at<a href='https://www.thermaxglobal.com/'> Thermax</a>
-# Innovation Engineer at<a href='https://www.thermaxglobal.com/'> Thermax</a>
+subtitle: Innovation Engineer at [Thermax](https://www.thermaxglobal.com/)
+# Innovation Engineer at<a href='https://www.thermaxglobal.com/'> Thermax</a>, Thermax Limited | IIT Goa
 
 profile:
   align: right
