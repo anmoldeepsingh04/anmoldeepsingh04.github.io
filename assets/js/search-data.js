@@ -362,14 +362,14 @@ ninja.data = [{
           description: "Artificial Neural Network to model CH4-H2 bluff- body turbulent combustion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-fmae-fkdc-2021",
+          title: 'FMAE-FKDC 2021',
+          description: "Go-Kart Design Challenge",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-smart-boiler-control",
+          title: 'Smart Boiler Control',
+          description: "Using Machine Learning and Predictive Modeling for pressure and water-level control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
