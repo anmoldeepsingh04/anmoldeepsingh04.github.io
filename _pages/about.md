@@ -1,9 +1,11 @@
 ---
 layout: about
-title: About
+title: "**About**"
 permalink: /
-subtitle: Thermax Limited | IIT Goa
-subtitle: <a href='https://www.thermaxglobal.com/'> Innovation Engineer at Thermax</a>.
+subtitle: |
+  Thermax Limited | IIT Goa
+  Innovation Engineer at<a href='https://www.thermaxglobal.com/'> Thermax</a>
+# Innovation Engineer at<a href='https://www.thermaxglobal.com/'> Thermax</a>
 
 profile:
   align: right
