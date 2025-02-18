@@ -4,7 +4,7 @@ title: Turbulent Combustion Modeling Using Deep Learning
 description: Artificial Neural Network to model CH4-H2 bluff- body turbulent combustion
 img: assets/img/combustion.jpg
 importance: 1
-category: Academic
+# category: Academic
 related_publications: false
 ---
 

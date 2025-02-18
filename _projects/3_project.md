@@ -1,22 +1,28 @@
 ---
 layout: page
-title: Smart Boiler Control
-description: Using Machine Learning and Predictive Modeling for pressure and water-level control
-img: assets/img/BoilerDynamics.jpg
-# redirect: https://unsplash.com
+title: MiniCEA
+description: Thermochemical calculator to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels
+img: assets/img/MiniCEA.jpg
 importance: 3
-category: Professional
+# category: Academic
 ---
+**Author:** Anmoldeep Singh  
+**Advisor:** [Dr. Anirudha Ambekar](https://iitgoa.ac.in/SMS-faculty-profile/?uid=anirudha&&exp=ME)
 
+<div style="display: flex; justify-content: center; gap: 2rem; align-items: center; margin-bottom: 2rem;">
+
+<a href="https://github.com/anmoldeepsingh04/MiniCEA" target="_blank" style="text-decoration: none; text-align: center;">
+    <i class="fab fa-github fa-3x"></i><br>
+    <span>GitHub Repository</span>
+  </a>
+  
+</div>
+
+---
 ## **Abstract**
-● Developed a hybrid mathematical model by integrating data-driven models for
-combustion and heat transfer with a physics-based model for boiler dynamics to
-control water level and pressure by dynamically adjusting combustion parameters
-based on changes in fuel type and ambient conditions
-● Implemented SGD (Stochastic Gradient Descent) with ADAM optimizer to
-improve model parameters
-● Created the codebase in Python for the control system to maximize performance
-and minimize human interference in operations
+Python program to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels (alkanes, alkenes, alkynes, and alcohols) based on specified Fuel-to-Air (F/A) ratios
+Utilized the Openpyxl module to process CSV data and generated relevant graphical representations using the Pyplot module
+
 
 
 ---

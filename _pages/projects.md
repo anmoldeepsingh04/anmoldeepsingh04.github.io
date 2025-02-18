@@ -5,7 +5,7 @@ permalink: /projects/
 description: A brief run-through of the major projects I have worked on
 nav: true
 nav_order: 3
-display_categories: [Academic, Extra Curriculur, Professional]
+# display_categories: [Academic, Extra Curriculur, Professional]
 horizontal: false
 ---
 

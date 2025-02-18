@@ -4,7 +4,7 @@ title: FMAE-FKDC 2021
 description: Go-Kart Design Challenge
 img: assets/img/GoKart.jpg
 importance: 2
-category: Extra Curriculur
+# category: Extra Curriculur
 giscus_comments: false
 ---
 
