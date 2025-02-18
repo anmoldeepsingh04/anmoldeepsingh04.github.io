@@ -5,7 +5,7 @@ description: Artificial Neural Network to model CH4-H2 bluff- body turbulent com
 img: assets/img/combustion.jpg
 importance: 1
 category: Academic
-related_publications: true
+related_publications: false
 ---
 
 **Author:** Anmoldeep Singh  
