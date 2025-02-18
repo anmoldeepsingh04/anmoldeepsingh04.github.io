@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Innovation Engineer at [Thermax](https://www.thermaxglobal.com/)
+subtitle: Innovation Engineer at <a href='https://www.thermaxglobal.com/'> Thermax</a>
 # Innovation Engineer at<a href='https://www.thermaxglobal.com/'> Thermax</a>, Thermax Limited | IIT Goa
 
 profile:
