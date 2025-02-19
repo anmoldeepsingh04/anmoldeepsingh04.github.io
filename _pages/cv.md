@@ -6,7 +6,8 @@ nav: true
 nav_order: 5
 # redirect_to: /assets/pdf/Curriculum_Vitae.pdf
 cv_pdf: Curriculum_Vitae.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: This page showcases my academic journey, work experience, and research interests. For collaborations or inquiries, feel free to connect with me.
+
 toc:
   sidebar: left
 ---
