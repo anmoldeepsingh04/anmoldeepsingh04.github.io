@@ -7,13 +7,18 @@
       value: 12th Aug 1999
     - name: Languages
       value: English, German
+    - name: Email
+      value: anmoldeep1268@gmail.com
+    - name: summary
+      value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods
+  
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Technology
+      institution: Indian Institute of Technology Goa, Ponda, India
+      year: Aug 2018 - Jul 2022
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +26,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Higher Secondary
+      institution: Kendriya Vidyalaya Itarana, India
+      year: Apr 2015 - Mar 2017
       description:
         - Description 1.
         - Description 2.
