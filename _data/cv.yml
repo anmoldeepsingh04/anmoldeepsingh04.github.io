@@ -97,14 +97,23 @@
         - Description 2.
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Painting and Crafting, Culinary Exploration, Hiking, Reading
-    - <u>Sports:</u> Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
-    - <u>Infotainment:</u> Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics. 📐📊
-    - <u>Infotainment:</u>
-      Here are some of my favorite YouTube channels:  
-    - [3Blue1Brown](https://www.youtube.com/@3blue1brown)  
-    - [Numberphile](https://www.youtube.com/@numberphile)  
-    - [Veritasium](https://www.youtube.com/@veritasium)  
-    - [PBS Infinite Series](https://www.youtube.com/@infinite-series)
+    - title: Hobbies
+      items:
+        - Painting and Crafting
+        - Culinary Exploration
+        - Hiking
+        - Reading
+    - title: Sports
+      items: 
+        - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
+    - title: Infotainment
+      items:
+        - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics. 📐📊
+        - title: Here are some of my favorite YouTube channels
+          items:
+            - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+            - [Numberphile](https://www.youtube.com/@numberphile)
+            - [Veritasium](https://www.youtube.com/@veritasium)"
+            - [PBS Infinite Series](https://www.youtube.com/@infinite-series)
