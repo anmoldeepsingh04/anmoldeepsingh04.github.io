@@ -111,4 +111,10 @@
     - title: Infotainment
       items:
         - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics. 📐📊
-        - "Here are some of my favorite YouTube channels:\n  - [3Blue1Brown](https://www.youtube.com/@3blue1brown)\n  - [Numberphile](https://www.youtube.com/@numberphile)\n  - [Veritasium](https://www.youtube.com/@veritasium)\n  - [PBS Infinite Series](https://www.youtube.com/@infinite-series)"
+        - "<strong>Here are some of my favorite YouTube channels:</strong><br>
+          <ul>
+            <li><a href='https://www.youtube.com/@3blue1brown' target='_blank'>3Blue1Brown</a></li>
+            <li><a href='https://www.youtube.com/@numberphile' target='_blank'>Numberphile</a></li>
+            <li><a href='https://www.youtube.com/@veritasium' target='_blank'>Veritasium</a></li>
+            <li><a href='https://www.youtube.com/@infinite-series' target='_blank'>PBS Infinite Series</a></li>
+          </ul>"
