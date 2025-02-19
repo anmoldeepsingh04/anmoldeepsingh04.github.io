@@ -18,7 +18,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en, de # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en, fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anmoldeepsingh04.github.io # the base hostname & protocol for your site
@@ -107,7 +107,7 @@ stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: +919682877811 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
