@@ -18,7 +18,7 @@
   contents:
     - title: Bachelor of Technology
       institution: Indian Institute of Technology Goa, Ponda, India
-      year: Aug 2018 - Jul 2022
+      year:  08/2018 - 07/2022
       description:
         - Description 1.
         - Description 2.
@@ -28,7 +28,7 @@
             - Sub-description 2.
     - title: Higher Secondary
       institution: Kendriya Vidyalaya Itarana, India
-      year: Apr 2015 - Mar 2017
+      year: 04/2015 - 03/2017
       description:
         - Description 1.
         - Description 2.
@@ -112,7 +112,7 @@
       items:
         - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics. 📐📊
         - title: Here are some of my favorite YouTube channels
-          items:
+          contents:
             - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
             - [Numberphile](https://www.youtube.com/@numberphile)
             - [Veritasium](https://www.youtube.com/@veritasium)"
