@@ -10,14 +10,14 @@
     - name: Email
       value: anmoldeep1268@gmail.com
     - name: summary
-      value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods
+      value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods. I am passionate about leveraging Computational Fluid Dynamics (CFD), Deep Learning (DL), and Quantum Computing (QC) to develop energy-efficient models that help combat climate change. CFD allows me to simulate complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional methods often miss. QC’s ability to process massive datasets—common in CFD—offers a way to push computational efficiency even further. By integrating these technologies, I aim to create smarter, more efficient models that optimize fluid systems, reduce energy consumption, and support global sustainability goals in clean energy and climate action.
   
 
 - title: Education
   type: time_table
   contents:
     - title: Bachelor of Technology
-      institution: Indian Institute of Technology Goa, Ponda, India
+      institution: <a href="https://iitgoa.ac.in/">Indian Institute of Technology Goa, Ponda, India</a>
       year:  08/2018 - 07/2022
       description:
         - Majored in Mechanical Engineering
@@ -32,7 +32,7 @@
             - Econometric Data Science
             - Introduction to Quantitative Finance
     - title: Higher Secondary
-      institution: Kendriya Vidyalaya Itarana, India
+      institution: <a href="https://itarana.kvs.ac.in/">Kendriya Vidyalaya Itarana, India</a>
       year: 04/2015 - 03/2017
       description:
         - 88.% in XII
@@ -42,65 +42,53 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Innovation Engineer
+      institution: <a href="https://www.thermaxglobal.com/">Thermax Limited, Pune</a>
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Industrial Training
+          contents: 
+            - "Innovation Team: Specialized in mathematical modeling of heat exchangers and furnaces, exploring fuel properties and biomass for sustainable combustion."
+            - "Manufacturing Team: Gained expertise in heat exchanger manufacturing, quality assurance, and industrial safety practices."
+            - "Services Team: Conducted product troubleshooting, failure analysis, and commissioning, with hands-on site visits for RLA and RCA reporting."
+        - title: Heating Department
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+            - Developed on mathematical model for biomass-fired boiler
+            - Worked on renewable fuels, majorly focusing on biomass
+        - title: Environment Department
+          contents:
+            - Temperature Swing Adsorption bench-marking studies for Green Hydrogen Purification
+            - Working on purification and upgradation of biomethane and green hydrogen
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Secured 1st place at FMAE-FKDC Go-Kart Design Competition
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Secured 3rd place at National Seminar Presentation at Tech-Tantra
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Fluid Dynamics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Developing high-fidelity numerical models for complex fluid flow and heat transfer phenomena.  
+        - Enhancing turbulence modeling techniques to improve predictive accuracy in industrial and environmental flows.
+    - title: Deep Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Leveraging neural networks for data-driven turbulence modeling and reduced-order fluid simulations.  
+        - Applying machine learning for accelerating CFD solvers and optimizing fluid system performance.
+    - title: Quantum Computing
+      items:
+        - Exploring quantum algorithms for solving large-scale fluid dynamics problems with enhanced computational efficiency.  
+        - Investigating quantum-based optimization techniques for inverse problems in fluid mechanics.
+    - title: Sustainable Methods
+      items:
+        - Designing energy-efficient CFD models to minimize resource consumption and support UN sustainability goals on clean energy and climate action.  
+        - Optimizing fluid flow systems to reduce emissions, enhance renewable energy integration, and improve industrial sustainability.
 
 - title: Other Interests
   type: nested_list
