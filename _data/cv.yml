@@ -20,18 +20,24 @@
       institution: Indian Institute of Technology Goa, Ponda, India
       year:  08/2018 - 07/2022
       description:
-        - Description 1.
+        - Majored in Mechanical Engineering
         - Description 2.
-        - title: Description 3.
+        - title: Notable Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Computational Fluid Dynamics
+            - Turbulent Flows
+            - Scientific and Parallel Programming
+            - Gas Dynamics
+            - Introduction to Combustion
+            - Econometric Data Science
+            - Introduction to Quantitative Finance
     - title: Higher Secondary
       institution: Kendriya Vidyalaya Itarana, India
       year: 04/2015 - 03/2017
       description:
-        - Description 1.
-        - Description 2.
+        - 88.% in XII
+        - 10 CGPA in X
+        - School Captain in AY 2017-18
 
 - title: Experience
   type: time_table
@@ -113,47 +119,28 @@
         - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics. 📐📊
         - |
           <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <!-- 3Blue1Brown -->
             <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
-                <div style="width: 120px; height: 120px; border-radius: 50%;
-                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqNaB7f5-3Blue1BrownImage=s176-c-k-c0x00ffffff-no-rj');
-                    background-size: cover; background-position: center;
-                    color: white; display: flex; align-items: center; justify-content: center;
-                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
-                    title="3Blue1Brown">
-                </div>
+              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+                <img src="https://yt3.ggpht.com/ytc/AIdro_np0RYuoHVR-1JNgtVBd8xDf9ma6w-SL1QoamKdj7uQCg=s88-c-k-c0x00ffffff-no-rj" alt="3Blue1Brown" style="width: 100px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black;">3Blue1Brown</p>
+              </div>
             </a>
-
-              <!-- Numberphile -->
-              <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none;">
-                <div style="width: 120px; height: 120px; border-radius: 50%;
-                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqNumberphileImage=s176-c-k-c0x00ffffff-no-rj');
-                    background-size: cover; background-position: center;
-                    color: white; display: flex; align-items: center; justify-content: center;
-                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
-                    title="Numberphile">
-                </div>
-              </a>
-
-              <!-- Veritasium -->
-              <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none;">
-                <div style="width: 120px; height: 120px; border-radius: 50%;
-                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqVeritasiumImage=s176-c-k-c0x00ffffff-no-rj');
-                    background-size: cover; background-position: center;
-                    color: white; display: flex; align-items: center; justify-content: center;
-                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
-                    title="Veritasium">
-                </div>
-              </a>
-
-              <!-- PBS Infinite Series -->
-              <a href="https://www.youtube.com/@infinite-series" target="_blank" style="text-decoration: none;">
-                <div style="width: 120px; height: 120px; border-radius: 50%;
-                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqPBSInfiniteSeriesImage=s176-c-k-c0x00ffffff-no-rj');
-                    background-size: cover; background-position: center;
-                    color: white; display: flex; align-items: center; justify-content: center;
-                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
-                    title="PBS Infinite Series">
-                </div>
-              </a>
+            <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none;">
+              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNhZdGRrVd4-RyZ8oSg7Xcm13eFwbX5SoHpGmEFrA=s176-c-k-c0x00ffffff-no-rj" alt="Numberphile" style="width: 100px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black;">Numberphile</p>
+              </div>
+            </a>
+            <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none;">
+              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqP7eKNbhz3n8Gbqsd9WkeDHjoR4AoJ_wox9ARmD=s176-c-k-c0x00ffffff-no-rj" alt="Veritasium" style="width: 100px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black;">Veritasium</p>
+              </div>
+            </a>
+            <a href="https://www.youtube.com/@infinite-series" target="_blank" style="text-decoration: none;">
+              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNRtD0Y6YpTRU3YHAcOdSDu-wbyXCVOV0ynJfV5eQ=s176-c-k-c0x00ffffff-no-rj" alt="PBS Infinite Series" style="width: 100px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black;">PBS Infinite Series</p>
+              </div>
+            </a>
           </div>
