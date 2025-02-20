@@ -90,16 +90,11 @@
   type: nested_list
   contents:
     - title: Hobbies
-      items:
-        - Painting and Crafting
-        - Culinary Exploration
-        - Hiking
-        - Reading
+      contents: Painting and Crafting, Culinary Exploration, Hiking, Reading
     - title: Sports
-      items: 
-        - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
+      contents: Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Infotainment
-      items:
+      contents:
         - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics.
         - |
           <div style="display: flex; gap: 10px; flex-wrap: wrap;">
