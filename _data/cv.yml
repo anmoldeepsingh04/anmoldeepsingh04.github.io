@@ -91,10 +91,10 @@
   contents:
     - title: Hobbies
       items: 
-        - 🎨🎭 Painting and Crafting
-        - 🍳🍜 Culinary Exploration
-        - 🥾🏕️ Hiking
-        - 📖📚 Reading
+        - Painting and Crafting 🎨🎭 
+        - Culinary Exploration 🍳🍜 
+        - Hiking 🥾🏕️ 
+        - Reading 📖📚 
     - title: Sports
       items: 
         - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
@@ -105,26 +105,20 @@
           <div style="display: flex; gap: 10px; flex-wrap: wrap;">
             <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
               <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.googleusercontent.com/ytc/AIdro_mtp7Rl1Cp7-jl86BU-G093pGxvoZbDSElKgg7rkKDrK6U=s88-c-k-c0x00ffffff-no-rj-mo" alt="3Blue1Brown" style="width: 100px; border-radius: 50%;">
+                <img src="/assets/img/3B1B_icon.jpg" alt="3Blue1Brown" style="width: 100px; border-radius: 50%;">
                 <p style="margin: 5px 0; font-weight: bold; color: black;">3Blue1Brown</p>
               </div>
             </a>
             <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none;">
               <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNhZdGRrVd4-RyZ8oSg7Xcm13eFwbX5SoHpGmEFrA=s176-c-k-c0x00ffffff-no-rj" alt="Numberphile" style="width: 100px; border-radius: 50%;">
+                <img src="/assets/img/Numberphile_icon.png" alt="Numberphile" style="width: 100px; border-radius: 50%;">
                 <p style="margin: 5px 0; font-weight: bold; color: black;">Numberphile</p>
               </div>
             </a>
             <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none;">
               <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqP7eKNbhz3n8Gbqsd9WkeDHjoR4AoJ_wox9ARmD=s176-c-k-c0x00ffffff-no-rj" alt="Veritasium" style="width: 100px; border-radius: 50%;">
+                <img src="/assets/img/Veritasium_icon.jpg" alt="Veritasium" style="width: 100px; border-radius: 50%;">
                 <p style="margin: 5px 0; font-weight: bold; color: black;">Veritasium</p>
-              </div>
-            </a>
-            <a href="https://www.youtube.com/@infinite-series" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNRtD0Y6YpTRU3YHAcOdSDu-wbyXCVOV0ynJfV5eQ=s176-c-k-c0x00ffffff-no-rj" alt="PBS Infinite Series" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">PBS Infinite Series</p>
               </div>
             </a>
           </div>
