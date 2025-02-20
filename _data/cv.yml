@@ -87,20 +87,20 @@
         - Optimizing fluid flow systems to reduce emissions, enhance renewable energy integration, and improve industrial sustainability.
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <b>Hobbies:</b> Cycling, Painting, Travelling, and Food.
-    - <b>Music:</b> I love listening music of different genres, especially <b>Hip-Hop</b> and <b>Rap</b>. My second favourite genre is <b>Slow-Hindi</b> songs.
-    - <b>Sports:</b> I love to play <i>badminton</i>, <i>cricket</i>, and go for <i>running</i>.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <b>Hobbies:</b> Painting and Crafting, Culinary Exploration, Hiking, Reading
-    - <b>Sports:</b> Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
+    - title: Hobbies
+      items: 
+        - 🎨🎭 Painting and Crafting
+        - 🍳🍜 Culinary Exploration
+        - 🥾🏕️ Hiking
+        - 📖📚 Reading
+    - title: Sports
+      items: 
+        - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Infotainment
       items:
-        |
+         |
           Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics.
           <div style="display: flex; gap: 10px; flex-wrap: wrap;">
             <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
