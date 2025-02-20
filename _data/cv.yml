@@ -90,12 +90,12 @@
   type: nested_list
   contents:
     - title: Hobbies
-      description: 
+      contents: 
       - Painting and Crafting, Culinary Exploration, Hiking, Reading
     # - title: Sports
     #   items: Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Sports
-      description: 
+      contents: 
       - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Infotainment
       contents:
