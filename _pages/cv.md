@@ -8,8 +8,8 @@ nav_order: 5
 cv_pdf: Curriculum_Vitae.pdf
 description: This page showcases my academic journey, work experience, and research interests. For collaborations or inquiries, feel free to connect with me.
 
-toc:
-  sidebar: left
+# toc:
+#   sidebar: left
 ---
 
 <!-- to link the cv present in the asset folder -->

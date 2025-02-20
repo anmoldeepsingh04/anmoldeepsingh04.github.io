@@ -8,7 +8,7 @@
     - name: Languages
       value: English, German
     - name: Email
-      value: anmoldeep1268@gmail.com
+      value: <a href="anmoldeep1268@gmail.com">anmoldeep1268@gmail.com</a>
     - name: summary
       value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods. I am passionate about leveraging Computational Fluid Dynamics (CFD), Deep Learning (DL), and Quantum Computing (QC) to develop energy-efficient models that help combat climate change. CFD allows me to simulate complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional methods often miss. QC’s ability to process massive datasets—common in CFD—offers a way to push computational efficiency even further. By integrating these technologies, I aim to create smarter, more efficient models that optimize fluid systems, reduce energy consumption, and support global sustainability goals in clean energy and climate action.
   
@@ -21,7 +21,6 @@
       year:  08/2018 - 07/2022
       description:
         - Majored in Mechanical Engineering
-        - Description 2.
         - title: Notable Courses
           contents:
             - Computational Fluid Dynamics
@@ -48,9 +47,8 @@
       description:
         - title: Industrial Training
           contents: 
-            - "Innovation Team: Specialized in mathematical modeling of heat exchangers and furnaces, exploring fuel properties and biomass for sustainable combustion."
-            - "Manufacturing Team: Gained expertise in heat exchanger manufacturing, quality assurance, and industrial safety practices."
-            - "Services Team: Conducted product troubleshooting, failure analysis, and commissioning, with hands-on site visits for RLA and RCA reporting."
+            - Specialized in mathematical modeling of heat exchangers and biomass for sustainable combustion.
+            - Gained expertise in heat exchanger manufacturing, quality assurance, industrial safety, troubleshooting, and failure analysis.
         - title: Heating Department
           contents:
             - Developed on mathematical model for biomass-fired boiler
@@ -104,7 +102,7 @@
         - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Infotainment
       items:
-        - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics. 📐📊
+        - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics.
         - |
           <div style="display: flex; gap: 10px; flex-wrap: wrap;">
             <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
