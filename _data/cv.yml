@@ -155,3 +155,48 @@
           </div>
 
 
+          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+            <!-- 3Blue1Brown -->
+            <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
+                <div style="width: 120px; height: 120px; border-radius: 50%;
+                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqNaB7f5-3Blue1BrownImage=s176-c-k-c0x00ffffff-no-rj');
+                    background-size: cover; background-position: center;
+                    color: white; display: flex; align-items: center; justify-content: center;
+                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
+                    title="3Blue1Brown">
+                </div>
+            </a>
+
+              <!-- Numberphile -->
+              <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none;">
+                <div style="width: 120px; height: 120px; border-radius: 50%;
+                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqNumberphileImage=s176-c-k-c0x00ffffff-no-rj');
+                    background-size: cover; background-position: center;
+                    color: white; display: flex; align-items: center; justify-content: center;
+                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
+                    title="Numberphile">
+                </div>
+              </a>
+
+              <!-- Veritasium -->
+              <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none;">
+                <div style="width: 120px; height: 120px; border-radius: 50%;
+                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqVeritasiumImage=s176-c-k-c0x00ffffff-no-rj');
+                    background-size: cover; background-position: center;
+                    color: white; display: flex; align-items: center; justify-content: center;
+                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
+                    title="Veritasium">
+                </div>
+              </a>
+
+              <!-- PBS Infinite Series -->
+              <a href="https://www.youtube.com/@infinite-series" target="_blank" style="text-decoration: none;">
+                <div style="width: 120px; height: 120px; border-radius: 50%;
+                    background-image: url('https://yt3.googleusercontent.com/ytc/AGIKgqPBSInfiniteSeriesImage=s176-c-k-c0x00ffffff-no-rj');
+                    background-size: cover; background-position: center;
+                    color: white; display: flex; align-items: center; justify-content: center;
+                    font-weight: bold; text-align: center; font-size: 16px; position: relative;"
+                    title="PBS Infinite Series">
+                </div>
+              </a>
+          </div>
