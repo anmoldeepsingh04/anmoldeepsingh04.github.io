@@ -102,23 +102,53 @@
       items:
          |
           Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics.
-          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="/assets/img/3B1B_icon.jpg" alt="3Blue1Brown" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">3Blue1Brown</p>
-              </div>
+          <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+            <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+              <img src="/assets/img/3B1B_icon.jpg" alt="3Blue1Brown" style="width: 50px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black; text-align: center;">3Blue1Brown</p>
             </a>
-            <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="/assets/img/Numberphile_icon.png" alt="Numberphile" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">Numberphile</p>
-              </div>
+
+            <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+              <img src="/assets/img/Numberphile_icon.png" alt="Numberphile" style="width: 50px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black; text-align: center;">Numberphile</p>
             </a>
-            <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="/assets/img/Veritasium_icon.jpg" alt="Veritasium" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">Veritasium</p>
-              </div>
+
+            <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+              <img src="/assets/img/Veritasium_icon.jpg" alt="Veritasium" style="width: 50px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black; text-align: center;">Veritasium</p>
+            </a>
+
+            <a href="https://www.youtube.com/@PapaFlammy69" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+              <img src="/assets/img/FlammableMaths_icon.jpg" alt="Flammable Maths" style="width: 50px; border-radius: 50%;">
+                <p style="margin: 5px 0; font-weight: bold; color: black; text-align: center;">Flammable Maths</p>
             </a>
           </div>
+
+
+
+# code for padding and background
+# <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
+#               <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+#                 <img src="/assets/img/3B1B_icon.jpg" alt="3Blue1Brown" style="width: 100px; border-radius: 50%;">
+#                 <p style="margin: 5px 0; font-weight: bold; color: black;">3Blue1Brown</p>
+#               </div>
+#             </a>
+#             <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none;">
+#               <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+#                 <img src="/assets/img/Numberphile_icon.png" alt="Numberphile" style="width: 100px; border-radius: 50%;">
+#                 <p style="margin: 5px 0; font-weight: bold; color: black;">Numberphile</p>
+#               </div>
+#             </a>
+#             <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none;">
+#               <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+#                 <img src="/assets/img/Veritasium_icon.jpg" alt="Veritasium" style="width: 100px; border-radius: 50%;">
+#                 <p style="margin: 5px 0; font-weight: bold; color: black;">Veritasium</p>
+#               </div>
+#             </a>
+#             <a href="https://www.youtube.com/@PapaFlammy69" target="_blank" style="text-decoration: none;">
+#               <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
+#                 <img src="/assets/img/FlammableMaths_icon.jpg" alt="Flammable Maths" style="width: 100px; border-radius: 50%;">
+#                 <p style="margin: 5px 0; font-weight: bold; color: black;">Flammable Maths</p>
+#               </div>
+#             </a>
+#           </div>
