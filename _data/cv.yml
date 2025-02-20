@@ -112,29 +112,32 @@
       items:
         - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics. 📐📊
         - |
-          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.ggpht.com/ytc/AIdro_np0RYuoHVR-1JNgtVBd8xDf9ma6w-SL1QoamKdj7uQCg=s88-c-k-c0x00ffffff-no-rj" alt="3Blue1Brown" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">3Blue1Brown</p>
-              </div>
-            </a>
-            <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNhZdGRrVd4-RyZ8oSg7Xcm13eFwbX5SoHpGmEFrA=s176-c-k-c0x00ffffff-no-rj" alt="Numberphile" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">Numberphile</p>
-              </div>
-            </a>
-            <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqP7eKNbhz3n8Gbqsd9WkeDHjoR4AoJ_wox9ARmD=s176-c-k-c0x00ffffff-no-rj" alt="Veritasium" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">Veritasium</p>
-              </div>
-            </a>
-            <a href="https://www.youtube.com/@infinite-series" target="_blank" style="text-decoration: none;">
-              <div style="width: 180px; padding: 10px; border-radius: 10px; background-color: #f4f4f4; text-align: center;">
-                <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNRtD0Y6YpTRU3YHAcOdSDu-wbyXCVOV0ynJfV5eQ=s176-c-k-c0x00ffffff-no-rj" alt="PBS Infinite Series" style="width: 100px; border-radius: 50%;">
-                <p style="margin: 5px 0; font-weight: bold; color: black;">PBS Infinite Series</p>
-              </div>
-            </a>
+          <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+            <!-- 3Blue1Brown -->
+            <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #0073e6; 
+                        color: white; display: flex; align-items: center; justify-content: center; 
+                        font-weight: bold; text-align: center; font-size: 14px; padding: 10px;">
+                3Blue1Brown
+            </div>
+
+            <!-- Numberphile -->
+            <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #e63946; 
+                        color: white; display: flex; align-items: center; justify-content: center; 
+                        font-weight: bold; text-align: center; font-size: 14px; padding: 10px;">
+                Numberphile
+            </div>
+
+            <!-- Veritasium -->
+            <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #f4a261; 
+                        color: white; display: flex; align-items: center; justify-content: center; 
+                        font-weight: bold; text-align: center; font-size: 14px; padding: 10px;">
+                Veritasium
+            </div>
+
+            <!-- PBS Infinite Series -->
+            <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #2a9d8f; 
+                        color: white; display: flex; align-items: center; justify-content: center; 
+                        font-weight: bold; text-align: center; font-size: 14px; padding: 10px;">
+                PBS Infinite Series
+            </div>
           </div>
