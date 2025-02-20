@@ -87,14 +87,16 @@
         - Optimizing fluid flow systems to reduce emissions, enhance renewable energy integration, and improve industrial sustainability.
 
 - title: Other Interests
-  type: nested_list
+  type: list
   contents:
     - title: Hobbies
-      description: Painting and Crafting, Culinary Exploration, Hiking, Reading
+      description: 
+      - Painting and Crafting, Culinary Exploration, Hiking, Reading
     # - title: Sports
     #   items: Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Sports
-      description: Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
+      description: 
+      - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Infotainment
       contents:
         - Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics.
