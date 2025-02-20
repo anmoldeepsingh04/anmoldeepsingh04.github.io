@@ -87,7 +87,7 @@
         - Optimizing fluid flow systems to reduce emissions, enhance renewable energy integration, and improve industrial sustainability.
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
     - title: Hobbies
       description: 
