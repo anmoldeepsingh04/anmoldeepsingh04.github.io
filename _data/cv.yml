@@ -132,7 +132,7 @@
             </a>
           </div>
 
-
+# without padding or bg
 # <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 #   <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
 #     <img src="/assets/img/3B1B_icon.jpg" alt="3Blue1Brown" style="width: 50px; border-radius: 50%;">
