@@ -2,6 +2,7 @@
 layout: page
 title: Smart Boiler Control
 description: Using Machine Learning and Predictive Modeling for pressure and water-level control
+technologies: Python, TensorFlow, Stochastic Gradient Descent (SGD)
 img: assets/img/BoilerDynamics.jpg
 # redirect: https://unsplash.com
 importance: 4
