@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Turbulent Combustion Modeling Using Deep Learning
-description: Artificial Neural Network to model CH₄-H₂ bluff-body turbulent combustion
+description: Artificial Neural Network to model CH₄/H₂ bluff-body turbulent combustion
 technologies: Deep Learning | Turbulence Modeling | CFD | Python | OpenFOAM | FPV | Visualization | Combustion | Linux
 img: assets/img/combustion.jpg
 importance: 1
