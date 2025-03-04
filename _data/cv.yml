@@ -10,7 +10,7 @@
     - name: Email
       value: <a href="mailto:anmoldeep1268@gmail.com">anmoldeep1268@gmail.com</a>
     - name: Overview
-      value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods. I am passionate about leveraging Computational Fluid Dynamics (CFD), Deep Learning (DL), and Quantum Computing (QC) to develop energy-efficient models that help combat climate change. CFD allows me to simulate complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional methods often miss. QC’s ability to process massive datasets—common in CFD—offers a way to push computational efficiency even further. By integrating these technologies, I aim to create smarter, more efficient models that optimize fluid systems, reduce energy consumption, and support global sustainability goals in clean energy and climate action.
+      value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods. I am passionate about leveraging Computational Fluid Dynamics (CFD) and Deep Learning (DL) to develop energy-efficient models that help combat climate change. CFD allows me to simulate complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional methods often miss. QC’s ability to process massive datasets—common in CFD—offers a way to push computational efficiency even further. By integrating these technologies, I aim to create smarter, more efficient models that optimize fluid systems, reduce energy consumption, and support global sustainability goals in clean energy and climate action.
   
 
 - title: Education
@@ -101,7 +101,7 @@
     - title: Infotainment
       items:
          |
-          Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics.
+          Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics! Following are some of my favourite channels on Youtube.
           <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; width: 100%;">
             <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
                 <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
