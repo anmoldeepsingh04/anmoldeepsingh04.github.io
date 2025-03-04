@@ -31,15 +31,13 @@
         - Majored in Mechanical Engineering
         - title: Notable Courses
           contents:
-            - "<div style='display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-top: 5px;'>"
-            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Computational Fluid Dynamics</div>"
-            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Turbulent Flows</div>"
-            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Scientific and Parallel Programming</div>"
-            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Gas Dynamics</div>"
-            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Introduction to Combustion</div>"
-            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Econometric Data Science</div>"
-            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Introduction to Quantitative Finance</div>"
-            - "</div>"
+            - Computational Fluid Dynamics
+            - Turbulent Flows
+            - Scientific and Parallel Programming
+            - Gas Dynamics
+            - Introduction to Combustion
+            - Econometric Data Science
+            - Introduction to Quantitative Finance
     - title: Higher Secondary
       institution: <a href="https://itarana.kvs.ac.in/">Kendriya Vidyalaya Itarana, India</a>
       year: 04/2015 - 03/2017
