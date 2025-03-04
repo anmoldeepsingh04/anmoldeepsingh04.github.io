@@ -2,6 +2,7 @@
 layout: page
 title: FMAE-FKDC 2021
 description: Go-Kart Design Challenge
+technologies: SolidWorks | Ansys Workbench | Design | Simulation | Team Management | Presentation
 img: assets/img/GoKart.jpg
 importance: 2
 # category: Extra Curriculur

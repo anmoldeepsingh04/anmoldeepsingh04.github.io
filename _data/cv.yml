@@ -12,15 +12,12 @@
     - name: Overview
       value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods. 
         I am passionate about leveraging Computational Fluid Dynamics (CFD) and Deep Learning (DL) to 
-        develop energy-efficient models that can help combat climate change. CFD allows the simulation of complex 
-        fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional methods 
-        often miss. I aim to create smarter, more efficient 
-        models that optimize fluid systems, reduce energy consumption, and support global sustainability goals 
-        in clean energy and climate action.
-        I am also interested in exploring the potential of 
-        Quantum Computing to process massive datasets—which is ubiquitous in CFD—offers a way to push 
-        computational 
-        efficiency even further.
+        develop energy-efficient models that can help combat climate change. CFD allows the simulation of 
+        complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional 
+        methods often miss. I aim to create smarter, more efficient models that optimize fluid systems, 
+        reduce energy consumption, and support global sustainability goals in clean energy and climate 
+        action. I am also interested in exploring the potential of Quantum Computing to process massive 
+        datasets—which is ubiquitous in CFD—offers a way to push computational efficiency even further.
   
 
 - title: Education
