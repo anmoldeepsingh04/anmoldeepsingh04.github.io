@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 12th Aug 1999
     - name: Languages
-      value: English, German
+      value: English (C1), German (Beginner), Hindi (Native), Punjabi (Native)
     - name: Email
       value: <a href="mailto:anmoldeep1268@gmail.com">anmoldeep1268@gmail.com</a>
     - name: Overview
@@ -16,8 +16,9 @@
         complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional 
         methods often miss. I aim to create smarter, more efficient models that optimize fluid systems, 
         reduce energy consumption, and support global sustainability goals in clean energy and climate 
-        action. I am also interested in exploring the potential of Quantum Computing to process massive 
-        datasets—which is ubiquitous in CFD—offers a way to push computational efficiency even further.
+        action. I am also interested in exploring the potential of High Performance Computing to process 
+        massive datasets—which is ubiquitous in CFD—offers a way to push computational efficiency even 
+        further.
   
 
 - title: Education
@@ -30,13 +31,15 @@
         - Majored in Mechanical Engineering
         - title: Notable Courses
           contents:
-            - Computational Fluid Dynamics
-            - Turbulent Flows
-            - Scientific and Parallel Programming
-            - Gas Dynamics
-            - Introduction to Combustion
-            - Econometric Data Science
-            - Introduction to Quantitative Finance
+            - "<div style='display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-top: 5px;'>"
+            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Computational Fluid Dynamics</div>"
+            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Turbulent Flows</div>"
+            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Scientific and Parallel Programming</div>"
+            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Gas Dynamics</div>"
+            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Introduction to Combustion</div>"
+            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Econometric Data Science</div>"
+            - "<div style='background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;'>Introduction to Quantitative Finance</div>"
+            - "</div>"
     - title: Higher Secondary
       institution: <a href="https://itarana.kvs.ac.in/">Kendriya Vidyalaya Itarana, India</a>
       year: 04/2015 - 03/2017
