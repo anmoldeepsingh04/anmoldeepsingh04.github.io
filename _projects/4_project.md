@@ -15,10 +15,6 @@ importance: 4
     <li>Implemented SGD (Stochastic Gradient Descent) with ADAM optimizer to improve model parameters</li>
     <li>Created the codebase in Python for the control system to maximize performance and minimize human interference in operations</li>
 </ul>
-● 
-● 
-● Created the codebase in Python for the control system to maximize performance
-and minimize human interference in operations
 
 ---
 
