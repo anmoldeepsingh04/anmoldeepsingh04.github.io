@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Turbulent Combustion Modeling Using Deep Learning
-description: Artificial Neural Network to model CH4-H2 bluff- body turbulent combustion
+description: Artificial Neural Network to model CH₄-H₂ bluff-body turbulent combustion
 img: assets/img/combustion.jpg
 importance: 1
 # category: Academic
@@ -24,7 +24,7 @@ related_publications: false
 
 ## **Abstract**
 
-This project mainly investigate turbulent flames which are usually observed in the practical combustors. We need both turbulence and chemistry solvers to model turbulent flames. In this project we intend to develop an ANN model which will be used to predict the flame structure of <p>CH<sub>4</sub>/H<sub>2</sub></p> and <p>CH<sub>4</sub>/H<sub>2</sub>/O<sub>2</sub>/N<sub>2</sub></p> flames. Further, the developed ANN model will be interfaced with OpenFOAM to investigate turbulent flames. 
+This project mainly investigate turbulent flames which are usually observed in the practical combustors. We need both turbulence and chemistry solvers to model turbulent flames. In this project we intend to develop an ANN model which will be used to predict the flame structure of CH<sub>4</sub>/H<sub>2</sub> and CH<sub>4</sub>/H<sub>2</sub>/O<sub>2</sub>/N<sub>2</sub> flames. Further, the developed ANN model will be interfaced with OpenFOAM to investigate turbulent combustion and flames. 
 
 <!-- ● Conducted numerical investigation of turbulent reacting flows using open-source CFD solver OpenFOAM coupled with Flamelet Progress Variable Model
 ● Designed and trained an Artificial Neural Network to replace OpenFOAM-Flamelet Progress Variable-based model to simulate and analyze turbulent flame dynamics

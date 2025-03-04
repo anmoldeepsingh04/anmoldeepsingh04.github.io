@@ -23,5 +23,5 @@ Participants have to follow strict design, safety, and performance guidelines wh
     <li>Designed, validated and tested a Go-Kart, ensuring compliance with all specified constraints, safety parameters and design requirements. </li>
     <li>Designed multiple chassis configurations using SolidWorks</li>
     <li>Conducted impact simulations using Ansys Workbench to optimize safety and performance</li>
-    <li>Secured <p>1<sup>st</sup></p> Position and the highest points in FMAE-FKDC National Online Go-Kart Design Competition-EV Category</li>
+    <li>Secured 1<sup>st</sup> position and the highest points in FMAE-FKDC National Online Go-Kart Design Competition-EV Category</li>
 </ul>
