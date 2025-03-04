@@ -373,7 +373,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-turbulent-combustion-modeling-using-deep-learning",
           title: 'Turbulent Combustion Modeling Using Deep Learning',
-          description: "Artificial Neural Network to model CH₄-H₂ bluff-body turbulent combustion",
+          description: "Artificial Neural Network to model CH₄/H₂ bluff-body turbulent combustion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-fmae-fkdc-2021",
