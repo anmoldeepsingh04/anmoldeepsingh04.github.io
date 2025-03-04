@@ -20,11 +20,11 @@ importance: 3
 
 ---
 ## **Abstract**
-Python program to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels (alkanes, alkenes, alkynes, and alcohols) based on specified Fuel-to-Air (F/A) ratios
-Utilized the Openpyxl module to process CSV data and generated relevant graphical representations using the Pyplot module
-
-
-
----
-
-● Further Details
+Python program to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels  based on specified Fuel-to-Air (F/A) ratio. The fuels under consideration were:
+<ul>
+    <li>Alkanes</li>
+    <li>Alkenes</li>
+    <li>Alkynes</li>
+    <li>Alcohols</li>
+</ul>
+Utilized the OpenPyXL module to process CSV data and PyPlot module to generate relevant graphical representations
