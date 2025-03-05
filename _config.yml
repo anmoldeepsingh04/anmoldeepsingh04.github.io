@@ -12,12 +12,21 @@ short_name : A. Singh
 email: anmoldeep1268@gmail.com
 linkedIn: https://www.linkedin.com/in/anmoldeepsingh04/
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Exploring Computational Science and Engineering with a focus on CFD, FEM, and Machine Learning for energy and sustainability applications.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Computational Science, CFD, FEM, Machine Learning, Turbulence Modeling, Sustainability, Quantum Computing # add your own keywords or leave empty
-lang: en, fr # the language of your site (for example: en, fr, cn, ru, etc.)
+  en: "Exploring Computational Science and Engineering with a focus on CFD, FEM, and Machine Learning for energy and sustainability applications."
+  de: "Erkunden der Computergestützte Wissenschaften und Maschinenbau mit Schwerpunkt auf CFD, FEM und maschinellem Lernen für Energie- und Nachhaltigkeitsanwendungen."
+footer_texts:
+  en: >
+    Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+    Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  de: >
+    Erstellt mit <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> und dem <a href="https://github.com/alshedivat/al-folio">al-folio</a>-Theme.
+    Gehostet von <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: # add your own keywords or leave empty
+    en: "Computational Science, CFD, FEM, Machine Learning, Turbulence Modeling, Sustainability, Quantum Computing"
+    de: "Computational Science, CFD, FEM, Maschinelles Lernen, Turbulenzmodellierung, Nachhaltigkeit, Quantencomputing"
+languages: ["en", "de"] # the language of your site (for example: en, fr, cn, ru, etc.)
+default_lang: "en"
+lang: en
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anmoldeepsingh04.github.io # the base hostname & protocol for your site
