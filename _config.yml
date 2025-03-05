@@ -17,7 +17,11 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Computational Science, CFD, FEM, Machine Learning, Turbulence Modeling, Sustainability, Quantum Computing # add your own keywords or leave empty
-lang: en, fr # the language of your site (for example: en, fr, cn, ru, etc.)
+# lang: en, fr # the language of your site (for example: en, fr, cn, ru, etc.)
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anmoldeepsingh04.github.io # the base hostname & protocol for your site
@@ -260,6 +264,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-polyglot
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
