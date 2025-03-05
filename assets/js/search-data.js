@@ -360,16 +360,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-graduated-in-mechanical-engineering-from-iit-goa",
+    },{id: "news-graduated-in-mechanical-engineering-from-iit-goa",
           title: 'Graduated in Mechanical Engineering from IIT Goa',
           description: "",
           section: "News",},{id: "news-joined-thermax-limited-as-a-graduate-engineer-trainee",
           title: 'Joined Thermax Limited as a Graduate Engineer Trainee',
+          description: "",
+          section: "News",},{id: "news-moved-to-innovation-function-of-heating-department-thermax-limited",
+          title: 'Moved to Innovation function of Heating department, Thermax Limited',
+          description: "",
+          section: "News",},{id: "news-moved-to-innovation-function-of-enviro-department-thermax-limited",
+          title: 'Moved to Innovation function of Enviro department, Thermax Limited',
           description: "",
           section: "News",},{id: "projects-turbulent-combustion-modeling-using-deep-learning",
           title: 'Turbulent Combustion Modeling Using Deep Learning',
