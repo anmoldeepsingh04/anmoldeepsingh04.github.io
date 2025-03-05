@@ -16,33 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A brief run-through of the major projects I have worked on",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Some info about my GitHub profile and the projects I&#39;ve worked on",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "Some info about my GitHub profile and the projects I&#39;ve worked on",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-resume",
-          title: "Resume",
-          description: "This page showcases my academic journey, work experience, and research interests. For collaborations or inquiries, feel free to connect with me.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "nav-resume",
           title: "Resume",
