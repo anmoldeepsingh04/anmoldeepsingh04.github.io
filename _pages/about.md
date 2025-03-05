@@ -19,6 +19,7 @@ social: true # includes social icons at the bottom of the page  --- Write your b
 ---
 
 Hi, I hope you're doing well!
+
 I am Anmoldeep, an Innovation Engineer at the Innovation department of Thermax Limited, Pune. I earned my Bachelor’s degree in Mechanical Engineering from <a href='https://iitgoa.ac.in/'> Indian Institute of Technology, Goa</a> in 2022.
 
 My academic curiosity lies at the intersection of Computational Sciences and Engineering Applications, with a strong focus on CFD, Sustainable Computing and HPC. I am a firm believer that traditional mechanical engineering can be enhanced multifold by integrating data-driven methods and help identify hidden structures and symmetries that are inaccessible via conventional techniques. By leveraging the potential of Machine Learning and Computational Modeling, we can push the boundaries of engineering innovation, enabling smarter, more efficient, and sustainable solutions across industries.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-08-08
+date: 2023-08-01
 inline: true
 related_posts: false
 ---
 
-Joined Thermax Limited as a Graduate Engineer Trainee
+Moved to Innovation function of Heating department, Thermax Limited
