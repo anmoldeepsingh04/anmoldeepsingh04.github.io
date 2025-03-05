@@ -2,12 +2,6 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
-
-    {% for lang in site.languages %}
-      {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
-      <link rel="alternate" hreflang="{{ lang }}" href="{{ lang_href }}" />
-    {% endfor %}
-
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}

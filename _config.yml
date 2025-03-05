@@ -260,7 +260,6 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll-polyglot
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
@@ -395,17 +394,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-
-# -----------------------------------------------------------------------------
-# Jekyll Polyglot
-# -----------------------------------------------------------------------------
-
-languages: ["en", "de"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
-lang_from_path: true
-country_flag: true # set true for allowing flag symbol in language toggle
-parallel_localization: true
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images

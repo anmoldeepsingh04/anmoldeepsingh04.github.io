@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-lang: du
 permalink: /projects/
 description: A brief run-through of the major projects I have worked on
 nav: true

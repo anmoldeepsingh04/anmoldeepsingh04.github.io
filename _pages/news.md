@@ -1,7 +1,6 @@
 ---
 layout: page
 title: News
-lang: du
 permalink: /news/
 ---
 
