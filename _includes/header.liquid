@@ -36,6 +36,15 @@
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
+          <li class="toggle-container">
+            <a id="language-toggle" href="#" onclick="toggleLanguage()" title="Change language">
+              {% if page.lang == 'en' %}
+                EN
+              {% else %}
+                DE
+              {% endif %}
+          </a>
+        </li>
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}

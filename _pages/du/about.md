@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+lang: du
 permalink: /
 subtitle: Innovation Engineer at <a href='https://www.thermaxglobal.com/'> Thermax</a>
 # Innovation Engineer at<a href='https://www.thermaxglobal.com/'> Thermax</a>, Thermax Limited | IIT Goa
@@ -18,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page  --- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it #in the `img/` folder. # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements #by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` #and Jekyll will render your [publications page](/al-folio/publications/) automatically. # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://# fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your # Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-Hi, I hope you're doing well!
+Hallo! Ich hope dein gut!
 
-I am Anmoldeep, an Innovation Engineer at the Innovation department of Thermax Limited, Pune. I earned my Bachelor’s degree in Mechanical Engineering from <a href='https://iitgoa.ac.in/'> Indian Institute of Technology, Goa</a> in 2022.
+I heise Anmoldeep, an Innovation Engineer at the Innovation department of Thermax Limited, Pune. I earned my Bachelor’s degree in Mechanical Engineering from <a href='https://iitgoa.ac.in/'> Indian Institute of Technology, Goa</a> in 2022.
 
 My academic curiosity lies at the intersection of Computational Sciences and Engineering Applications, with a strong focus on CFD, Sustainable Computing and HPC. I am a firm believer that traditional mechanical engineering can be enhanced multifold by integrating data-driven methods and help identify hidden structures and symmetries that are inaccessible via conventional techniques. By leveraging the potential of Machine Learning and Computational Modeling, we can push the boundaries of engineering innovation, enabling smarter, more efficient, and sustainable solutions across industries.
 
