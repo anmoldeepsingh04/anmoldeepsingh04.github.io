@@ -129,17 +129,6 @@
               </button>
             </li>
           {% endif %}
-
-          <!-- Language Switcher -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              🌍 Language
-            </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageDropdown">
-              <a class="dropdown-item {% if page.lang == 'en' %}active{% endif %}" href="{{ site.baseurl }}/en{{ page.url | remove_first: '/en' }}">🇬🇧 English</a>
-              <a class="dropdown-item {% if page.lang == 'de' %}active{% endif %}" href="{{ site.baseurl }}/de{{ page.url | remove_first: '/de' }}">🇩🇪 Deutsch</a>
-            </div>
-          </li>
         </ul>
       </div>
     </div>

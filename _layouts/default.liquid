@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ page.lang | default: site.default_lang }}">
+<html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
     {% if page.redirect %}
@@ -12,9 +12,6 @@
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
-    <title>{{ site.title }}</title>
-    <meta name="description" content="{{ site.descriptions[page.lang] | default: site.descriptions[site.default_lang] }}">
-    <meta name="keywords" content="{{ site.keywords[page.lang] | default: site.keywords[site.default_lang] }}">
     {% include head.liquid %}
   </head>
 
@@ -51,10 +48,7 @@
     </div>
 
     <!-- Footer -->
-    <footer>
-      {{ site.footer_texts[page.lang] | default: site.footer_texts[site.default_lang] }}
-    </footer>
-
+    {% include footer.liquid %}
 
     <!-- JavaScripts -->
     {% include scripts.liquid %}
