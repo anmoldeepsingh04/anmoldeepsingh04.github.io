@@ -360,16 +360,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-graduated-in-mechanical-engineering-from-iit-goa",
+          title: 'Graduated in Mechanical Engineering from IIT Goa',
+          description: "",
+          section: "News",},{id: "news-joined-thermax-limited-as-a-graduate-engineer-trainee",
+          title: 'Joined Thermax Limited as a Graduate Engineer Trainee',
           description: "",
           section: "News",},{id: "projects-turbulent-combustion-modeling-using-deep-learning",
           title: 'Turbulent Combustion Modeling Using Deep Learning',
