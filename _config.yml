@@ -16,9 +16,9 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: keywords: Computational Science and Engineering, Scientific Computing, Numerical Simulation, CFD, Machine Learning, Scientific Machine Learning, High-Performance Computing, Parallel Computing, Computational Optimization # add your own keywords or leave empty
+keywords: Computational Science and Engineering, Scientific Computing, Numerical Simulation, CFD, Machine Learning, Scientific Machine Learning, High-Performance Computing, Parallel Computing, Computational Optimization # add your own keywords or leave empty
 lang: en, de, fr, # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/web_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anmoldeepsingh04.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
