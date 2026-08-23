@@ -13,7 +13,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page  
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I hope you're doing well!
@@ -31,6 +31,5 @@ I am now exploring the integration of computational modeling, applied mathematic
 <!-- Outside my professional and academic endeavors, I'm an avid basketball player who loves delving into mathematics and exploring its profound influence on our understanding of the universe. From watching mathematical infotainment to pondering the Many-Worlds Interpretation of Quantum Mechanics and the ultimate fate of Schrödinger's poor cat, my interests are deeply rooted in the objectivity of our world, curiosity, and critical thinking. I am also deeply engaged in reading about societal issues, all of which enrich my perspective and pushes me to develop solutions that prioritize both human well-being and climate sustainability. -->
 
 Outside my academic work, I enjoy playing basketball, exploring mathematics, and reading about physics and quantum mechanics. I am also interested in broader societal and sustainability challenges and believe that scientific and technological progress should ultimately contribute to both human well-being and a more sustainable future.
-
 
 Feel free to reach out if you'd like to discuss computational science, mathematics, AI, or anything related!

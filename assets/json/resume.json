@@ -117,14 +117,7 @@
     {
       "name": "Aerodynamic Shape Optimization using CFD and Genetic Algorithms",
       "description": "Automated aerodynamic optimization framework coupling an in-house CFD solver with a Genetic Algorithm to optimize geometries for reduced drag.",
-      "keywords": [
-        "C++",
-        "Python",
-        "CFD",
-        "Genetic Algorithms",
-        "Optimization",
-        "Computational Geometry"
-      ],
+      "keywords": ["C++", "Python", "CFD", "Genetic Algorithms", "Optimization", "Computational Geometry"],
       "highlights": [
         "Developed an automated optimization pipeline coupling geometry generation, CFD simulation, fitness evaluation, and evolutionary search.",
         "Implemented parameterized geometry generation and automated simulation workflows.",
@@ -134,14 +127,7 @@
     {
       "name": "Turbulent Combustion Modeling using Deep Learning",
       "description": "Deep-learning surrogate model for CH4-H2 turbulent combustion integrated with OpenFOAM.",
-      "keywords": [
-        "Deep Learning",
-        "CFD",
-        "OpenFOAM",
-        "Python",
-        "Turbulence Modeling",
-        "Combustion"
-      ],
+      "keywords": ["Deep Learning", "CFD", "OpenFOAM", "Python", "Turbulence Modeling", "Combustion"],
       "highlights": [
         "Conducted numerical investigation of turbulent reacting flows using OpenFOAM coupled with the Flamelet Progress Variable model.",
         "Designed and trained a neural-network surrogate to replace the OpenFOAM FPV model.",
@@ -152,14 +138,7 @@
     {
       "name": "Deep Learning Framework in C++",
       "description": "PyTorch-inspired deep learning framework implemented from scratch in modern C++ using standard libraries.",
-      "keywords": [
-        "C++",
-        "Deep Learning",
-        "Neural Networks",
-        "Tensor",
-        "Automatic Differentiation",
-        "CMake"
-      ],
+      "keywords": ["C++", "Deep Learning", "Neural Networks", "Tensor", "Automatic Differentiation", "CMake"],
       "highlights": [
         "Implemented a Tensor abstraction supporting scalar, one-dimensional, and two-dimensional data.",
         "Implemented tensor operations including element-wise operations and matrix multiplication.",
@@ -171,12 +150,7 @@
     {
       "name": "Neural Network from Scratch in Python",
       "description": "Implementation of a neural network from scratch using Python and fundamental numerical operations.",
-      "keywords": [
-        "Python",
-        "Neural Networks",
-        "Machine Learning",
-        "MNIST"
-      ],
+      "keywords": ["Python", "Neural Networks", "Machine Learning", "MNIST"],
       "highlights": [
         "Implemented the forward and backward passes of a neural network without using a deep-learning framework.",
         "Implemented core components including activation functions, softmax, loss calculation, and gradient-based optimization.",
@@ -186,16 +160,7 @@
     {
       "name": "Smart Boiler Control",
       "description": "Hybrid mathematical and data-driven modeling framework for boiler pressure and water-level control.",
-      "keywords": [
-        "Python",
-        "Machine Learning",
-        "Mathematical Modeling",
-        "SGD",
-        "ADAM",
-        "Combustion",
-        "Heat Transfer",
-        "Optimization"
-      ],
+      "keywords": ["Python", "Machine Learning", "Mathematical Modeling", "SGD", "ADAM", "Combustion", "Heat Transfer", "Optimization"],
       "highlights": [
         "Developed a hybrid model combining physics-based boiler dynamics with data-driven combustion and heat-transfer models.",
         "Implemented SGD with ADAM optimization for model parameter adaptation.",
@@ -206,13 +171,7 @@
     {
       "name": "MiniCEA",
       "description": "Thermochemical calculator for computing adiabatic flame temperature and heat of reaction for different fuel families.",
-      "keywords": [
-        "Python",
-        "Thermodynamics",
-        "Combustion",
-        "Reaction Mechanisms",
-        "Data Processing"
-      ],
+      "keywords": ["Python", "Thermodynamics", "Combustion", "Reaction Mechanisms", "Data Processing"],
       "highlights": [
         "Developed a Python program to calculate adiabatic flame temperature and heat of reaction for alkanes, alkenes, alkynes, and alcohols.",
         "Implemented calculations based on specified fuel-to-air ratios.",
@@ -222,13 +181,7 @@
     {
       "name": "FMAE-FKDC 2021 Go-Kart Design Challenge",
       "description": "Go-Kart design and simulation project conducted as part of the IIT Goa Motorsport Club.",
-      "keywords": [
-        "SolidWorks",
-        "Ansys Workbench",
-        "Mechanical Design",
-        "Simulation",
-        "Team Leadership"
-      ],
+      "keywords": ["SolidWorks", "Ansys Workbench", "Mechanical Design", "Simulation", "Team Leadership"],
       "highlights": [
         "Designed and validated Go-Kart chassis configurations according to competition constraints and safety requirements.",
         "Performed impact simulations using Ansys Workbench to optimize structural safety and performance.",
@@ -241,34 +194,15 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "C++",
-        "Python",
-        "MATLAB",
-        "Fortran 98",
-        "Git"
-      ]
+      "keywords": ["C++", "Python", "MATLAB", "Fortran 98", "Git"]
     },
     {
       "name": "Machine Learning and AI",
-      "keywords": [
-        "PyTorch",
-        "NumPy",
-        "Pandas",
-        "Scikit-learn",
-        "Deep Learning",
-        "Data-driven Modeling"
-      ]
+      "keywords": ["PyTorch", "NumPy", "Pandas", "Scikit-learn", "Deep Learning", "Data-driven Modeling"]
     },
     {
       "name": "Scientific Computing",
-      "keywords": [
-        "Numerical Methods",
-        "Scientific Computing",
-        "High Performance Computing",
-        "Parallel Computing",
-        "Mathematical Modeling"
-      ]
+      "keywords": ["Numerical Methods", "Scientific Computing", "High Performance Computing", "Parallel Computing", "Mathematical Modeling"]
     },
     {
       "name": "CFD and Simulation",
@@ -284,11 +218,7 @@
     },
     {
       "name": "Design and CAD",
-      "keywords": [
-        "SolidWorks",
-        "AutoCAD",
-        "FreeCAD"
-      ]
+      "keywords": ["SolidWorks", "AutoCAD", "FreeCAD"]
     }
   ],
 
@@ -363,46 +293,23 @@
   "interests": [
     {
       "name": "Computational Fluid Dynamics",
-      "keywords": [
-        "Numerical Simulation",
-        "Turbulence Modeling",
-        "Fluid Mechanics",
-        "Heat Transfer"
-      ]
+      "keywords": ["Numerical Simulation", "Turbulence Modeling", "Fluid Mechanics", "Heat Transfer"]
     },
     {
       "name": "Scientific Machine Learning",
-      "keywords": [
-        "Physics-Informed Machine Learning",
-        "Data-driven Modeling",
-        "Reduced-Order Modeling",
-        "CFD Acceleration"
-      ]
+      "keywords": ["Physics-Informed Machine Learning", "Data-driven Modeling", "Reduced-Order Modeling", "CFD Acceleration"]
     },
     {
       "name": "Scientific Computing",
-      "keywords": [
-        "Numerical Methods",
-        "High Performance Computing",
-        "Parallel Computing"
-      ]
+      "keywords": ["Numerical Methods", "High Performance Computing", "Parallel Computing"]
     },
     {
       "name": "Quantum Computing",
-      "keywords": [
-        "Quantum Algorithms",
-        "Optimization",
-        "Scientific Computing"
-      ]
+      "keywords": ["Quantum Algorithms", "Optimization", "Scientific Computing"]
     },
     {
       "name": "Sustainable Engineering",
-      "keywords": [
-        "Renewable Energy",
-        "Energy Efficiency",
-        "Clean Energy",
-        "Computational Sustainability"
-      ]
+      "keywords": ["Renewable Energy", "Energy Efficiency", "Clean Energy", "Computational Sustainability"]
     }
   ],
 

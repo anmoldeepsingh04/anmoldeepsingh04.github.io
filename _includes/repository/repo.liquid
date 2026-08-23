@@ -31,7 +31,7 @@
 
     {% if include.repository.technologies %}
       <div class="repo-technologies">
-        {% assign technologies = include.repository.technologies | split: " | " %}
+        {% assign technologies = include.repository.technologies | split: ' | ' %}
         {% for technology in technologies %}
           <span class="repo-tag">{{ technology }}</span>
         {% endfor %}
