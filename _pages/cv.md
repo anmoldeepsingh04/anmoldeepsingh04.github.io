@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Resume
+title: CV
 nav: true
 nav_order: 5
 # redirect_to: /assets/pdf/Curriculum_Vitae.pdf

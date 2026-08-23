@@ -4,7 +4,32 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - anmoldeepsingh04/ComputationalFluidDynamics
-  - anmoldeepsingh04/CombustionFundamentals
-  - anmoldeepsingh04/Convection-Diffusion
-  - anmoldeepsingh04/codes
+  - name: ComputationalFluidDynamics
+    owner: anmoldeepsingh04
+    description: "Assignments and numerical implementations from Computational Heat and Fluid Flow, including CFD methods and computational fluid dynamics."
+    technologies: "Python | CFD | Numerical Methods"
+    url: "https://github.com/anmoldeepsingh04/ComputationalFluidDynamics"
+
+  - name: CombustionFundamentals
+    owner: anmoldeepsingh04
+    description: "Numerical models of combustion phenomena including plug-flow, well-stirred, and constant-volume reactors, thermal explosions, and blow-off conditions."
+    technologies: "Python | Combustion | Numerical Methods"
+    url: "https://github.com/anmoldeepsingh04/CombustionFundamentals"
+
+  - name: Convection-Diffusion
+    owner: anmoldeepsingh04
+    description: "Numerical implementations for convection-diffusion problems and computational transport phenomena."
+    technologies: "Python | Numerical Methods | PDEs"
+    url: "https://github.com/anmoldeepsingh04/Convection-Diffusion"
+
+  - name: Genetic Algorithm for CFD Geometry Optimization
+    owner: anmoldeepsingh04
+    description: "Evolutionary optimization of CFD geometries using simulation-based drag evaluation."
+    technologies: "Python | C++ | Genetic Algorithms | CFD | Optimization | FluidChen | VTK | ParaView | Numerical Simulation"
+    url: "https://gitlab.lrz.de/suharshnara/cfdlab-project-group-h"
+
+  - name: codes
+    owner: anmoldeepsingh04
+    description: "Collection of programming experiments and code snippets."
+    technologies: "Python | C++"
+    url: "https://github.com/anmoldeepsingh04/codes"

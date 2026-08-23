@@ -538,9 +538,122 @@ footer.sticky-bottom {
 
 // Repositories
 
+.repositories {
+  margin-left: -0.5rem;
+  margin-right: -0.5rem;
+}
+
+.repo {
+  width: 100%;
+}
+
 @media (min-width: 768px) {
   .repo {
-    max-width: 50%;
+    width: 50%;
+  }
+}
+
+.repo-card {
+  height: 100%;
+  padding: 1.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  background-color: var(--global-card-bg-color);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.repo-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.25rem 0.75rem rgb(0 0 0 / 8%);
+  border-color: var(--global-theme-color);
+}
+
+.repo-card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
+  margin-bottom: 0.8rem;
+}
+
+.repo-card-icon {
+  flex-shrink: 0;
+
+  i {
+    font-size: 1.25rem;
+    color: var(--global-theme-color);
+  }
+}
+
+.repo-card-title-wrapper {
+  min-width: 0;
+}
+
+.repo-name {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--global-theme-color);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.repo-name:hover {
+  text-decoration: underline;
+}
+
+.repo-owner {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.75rem;
+  color: var(--global-text-color-light);
+}
+
+.repo-description {
+  margin: 0 0 1rem;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.repo-technologies {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.repo-tag {
+  padding: 0.2rem 0.55rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  color: var(--global-text-color-light);
+  font-size: 0.72rem;
+  line-height: 1.4;
+}
+
+.repo-card-footer {
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.repo-github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--global-text-color-light);
+  font-size: 0.8rem;
+  text-decoration: none;
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+
+  .fa-arrow-up-right-from-square {
+    font-size: 0.65rem;
   }
 }
 
