@@ -4,7 +4,6 @@ title: Smart Boiler Control
 description: Using Machine Learning and Predictive Modeling for pressure and water-level control
 technologies: VBA | Python | Data-Driven Modeling | SGD | ADAM | Combustion | Heat-Transfer | Multi-Objective Optimization
 img: assets/img/BoilerDynamics.jpg
-# redirect: https://unsplash.com
 importance: 4
 # category: Professional
 ---
