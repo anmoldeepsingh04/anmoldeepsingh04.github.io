@@ -10,14 +10,14 @@ middle_name:
 last_name: Singh
 short_name: A. Singh
 email: anmoldeep1268@gmail.com
-linkedIn: https://www.linkedin.com/in/anmoldeepsingh04/
+# linkedIn: https://www.linkedin.com/in/anmoldeepsingh04/
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Master's student in Computational Science and Engineering at the Technical University of Munich, interested in scientific computing, numerical simulation, CFD, machine learning, and high-performance computing.
+  Master's student in Computational Science and Engineering at the Technical University of Munich, working at the intersection of scientific computing, numerical simulation, computational fluid dynamics, machine learning, and high-performance computing.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Computational Science and Engineering, Scientific Computing, Numerical Simulation, CFD, Machine Learning, Scientific Machine Learning, High-Performance Computing, Parallel Computing, Computational Optimization # add your own keywords or leave empty
-lang: en, de, fr, # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # de, fr, # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: web_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anmoldeepsingh04.github.io # the base hostname & protocol for your site
@@ -66,9 +66,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/img/og_image.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -123,7 +123,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: "G-CKHMC4GMEW" # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -136,8 +136,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: We are Under-Development! # blog_name will be displayed in your blog page
-blog_description: Something great related to math and programming coming soon!
+blog_name: Notes on Computational Science # blog_name will be displayed in your blog page
+blog_description: Notes, experiments, and technical articles on scientific computing, numerical methods, CFD, machine learning, and computational mathematics.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -154,18 +154,18 @@ related_blog_posts:
 giscus:
   repo: # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
+  category: # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  mapping: title # identify discussions by post title
+  mapping: # identify discussions by post title
   strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
+  reactions_enabled: # enable (1) or disable (0) emoji reactions
+  input_position: # whether to display input form below (bottom) or above (top) the comments
+  theme: # name of the color scheme (preferred works well with al-folio light/dark mode)
+  emit_metadata:
+  lang:
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
