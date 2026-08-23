@@ -10,23 +10,22 @@
     - name: Email
       value: <a href="mailto:anmoldeep1268@gmail.com">anmoldeep1268@gmail.com</a>
     - name: Overview
-      value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods. 
-        I am passionate about leveraging Computational Fluid Dynamics (CFD) and Deep Learning (DL) to 
-        develop energy-efficient models that can help combat climate change. CFD allows the simulation of 
-        complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional 
-        methods often miss. I aim to create smarter, more efficient models that optimize fluid systems, 
-        reduce energy consumption, and support global sustainability goals in clean energy and climate 
-        action. I am also interested in exploring the potential of High Performance Computing to process 
-        massive datasets—which is ubiquitous in CFD—offers a way to push computational efficiency even 
+      value: An aspiring researcher in the field of Computational Engineering and Sustainable Methods.
+        I am passionate about leveraging Computational Fluid Dynamics (CFD) and Deep Learning (DL) to
+        develop energy-efficient models that can help combat climate change. CFD allows the simulation of
+        complex fluid systems with high accuracy, while DL helps uncover hidden patterns that traditional
+        methods often miss. I aim to create smarter, more efficient models that optimize fluid systems,
+        reduce energy consumption, and support global sustainability goals in clean energy and climate
+        action. I am also interested in exploring the potential of High Performance Computing to process
+        massive datasets—which is ubiquitous in CFD—offers a way to push computational efficiency even
         further.
-  
 
 - title: Education
   type: time_table
   contents:
     - title: Bachelor of Technology
       institution: <a href="https://iitgoa.ac.in/">Indian Institute of Technology Goa, Ponda, India</a>
-      year:  08/2018 - 07/2022
+      year: 08/2018 - 07/2022
       description:
         - Majored in Mechanical Engineering
         - title: Notable Courses
@@ -54,7 +53,7 @@
       year: 2022 - Present
       description:
         - title: Industrial Training
-          contents: 
+          contents:
             - Specialized in mathematical modeling of heat exchangers and biomass for sustainable combustion.
             - Gained expertise in heat exchanger manufacturing, quality assurance, industrial safety, troubleshooting, and failure analysis.
         - title: Heating Department
@@ -79,66 +78,65 @@
   contents:
     - title: Computational Fluid Dynamics
       items:
-        - Developing high-fidelity numerical models for complex fluid flow and heat transfer phenomena.  
+        - Developing high-fidelity numerical models for complex fluid flow and heat transfer phenomena.
         - Enhancing turbulence modeling techniques to improve predictive accuracy in industrial and environmental flows.
     - title: Deep Learning
       items:
-        - Leveraging neural networks for data-driven turbulence modeling and reduced-order fluid simulations.  
+        - Leveraging neural networks for data-driven turbulence modeling and reduced-order fluid simulations.
         - Applying machine learning for accelerating CFD solvers and optimizing fluid system performance.
     - title: Quantum Computing
       items:
-        - Exploring quantum algorithms for solving large-scale fluid dynamics problems with enhanced computational efficiency.  
+        - Exploring quantum algorithms for solving large-scale fluid dynamics problems with enhanced computational efficiency.
         - Investigating quantum-based optimization techniques for inverse problems in fluid mechanics.
     - title: Sustainable Methods
       items:
-        - Designing energy-efficient CFD models to minimize resource consumption and support UN sustainability goals on clean energy and climate action.  
+        - Designing energy-efficient CFD models to minimize resource consumption and support UN sustainability goals on clean energy and climate action.
         - Optimizing fluid flow systems to reduce emissions, enhance renewable energy integration, and improve industrial sustainability.
 
 - title: Other Interests
   type: nested_list
   contents:
     - title: Hobbies
-      items: 
-        - Painting and Crafting 🎨🎭 
-        - Culinary Exploration 🍳🍜 
-        - Hiking 🥾🏕️ 
-        - Reading 📖📚 
+      items:
+        - Painting and Crafting 🎨🎭
+        - Culinary Exploration 🍳🍜
+        - Hiking 🥾🏕️
+        - Reading 📖📚
     - title: Sports
-      items: 
+      items:
         - Hailing from a defence family, sports has been an integral part of my life. A National Level player in Kho-Kho (U-14) and Basketball (U-19), loves playing Badminton and Volleyball.
     - title: Infotainment
-      items:
-         |
-          Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics! Following are some of my favourite channels on Youtube.
-          <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; width: 100%;">
-            <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
-                <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
-                    <img src="/assets/img/3B1B_icon.jpg" alt="3Blue1Brown" style="width: 60px; border-radius: 50%;">
-                    <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">3Blue1Brown</p>
-                </div>
-            </a>
+      items: |
+        Swapping Netflix and Prime for numbers and theorems—because in my spare time, I stream mathematics! Following are some of my favourite channels on Youtube.
+        <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; width: 100%;">
+          <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
+              <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
+                  <img src="/assets/img/3B1B_icon.jpg" alt="3Blue1Brown" style="width: 60px; border-radius: 50%;">
+                  <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">3Blue1Brown</p>
+              </div>
+          </a>
 
-            <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
-                <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
-                    <img src="/assets/img/Numberphile_icon.png" alt="Numberphile" style="width: 60px; border-radius: 50%;">
-                    <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">Numberphile</p>
-                </div>
-            </a>
+          <a href="https://www.youtube.com/@numberphile" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
+              <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
+                  <img src="/assets/img/Numberphile_icon.png" alt="Numberphile" style="width: 60px; border-radius: 50%;">
+                  <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">Numberphile</p>
+              </div>
+          </a>
 
-            <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
-                <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
-                    <img src="/assets/img/Veritasium_icon.jpg" alt="Veritasium" style="width: 60px; border-radius: 50%;">
-                    <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">Veritasium</p>
-                </div>
-            </a>
+          <a href="https://www.youtube.com/@veritasium" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
+              <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
+                  <img src="/assets/img/Veritasium_icon.jpg" alt="Veritasium" style="width: 60px; border-radius: 50%;">
+                  <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">Veritasium</p>
+              </div>
+          </a>
 
-            <a href="https://www.youtube.com/@PapaFlammy69" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
-                <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
-                    <img src="/assets/img/FlammableMaths_icon.jpg" alt="Flammable Maths" style="width: 60px; border-radius: 50%;">
-                    <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">Flammable Maths</p>
-                </div>
-            </a>
-          </div>
+          <a href="https://www.youtube.com/@PapaFlammy69" target="_blank" style="text-decoration: none; flex: 1; min-width: 150px; text-align: center;">
+              <div style="padding: 5px; border-radius: 8px; background-color: rgba(255, 255, 255, 0.1);">
+                  <img src="/assets/img/FlammableMaths_icon.jpg" alt="Flammable Maths" style="width: 60px; border-radius: 50%;">
+                  <p style="margin: 3px 0; font-weight: bold; color: var(--text-color);">Flammable Maths</p>
+              </div>
+          </a>
+        </div>
 
 # without padding or bg
 # <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
@@ -162,8 +160,6 @@
 #       <p style="margin: 5px 0; font-weight: bold; color: black; text-align: center;">Flammable Maths</p>
 #   </a>
 # </div>
-
-
 
 # code for padding and background
 # <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">

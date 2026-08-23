@@ -7,6 +7,7 @@ img: assets/img/MiniCEA.jpg
 importance: 3
 # category: Academic
 ---
+
 **Author:** Anmoldeep Singh  
 **Advisor:** [Dr. Anirudha Ambekar](https://iitgoa.ac.in/SMS-faculty-profile/?uid=anirudha&&exp=ME)
 
@@ -20,8 +21,11 @@ importance: 3
 </div>
 
 ---
+
 ## **Abstract**
-Python program to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels  based on specified Fuel-to-Air (F/A) ratio. The fuels under consideration were:
+
+Python program to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels based on specified Fuel-to-Air (F/A) ratio. The fuels under consideration were:
+
 <ul>
     <li>Alkanes</li>
     <li>Alkenes</li>

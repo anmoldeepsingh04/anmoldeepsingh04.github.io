@@ -8,11 +8,11 @@ title: Anmoldeep Singh # the website title (if blank, full name will be used ins
 first_name: Anmoldeep
 middle_name:
 last_name: Singh
-short_name : A. Singh
+short_name: A. Singh
 email: anmoldeep1268@gmail.com
 linkedIn: https://www.linkedin.com/in/anmoldeepsingh04/
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- Master's student in Computational Science and Engineering at the Technical University of Munich, interested in scientific computing, numerical simulation, CFD, machine learning, and high-performance computing.
+  Master's student in Computational Science and Engineering at the Technical University of Munich, interested in scientific computing, numerical simulation, CFD, machine learning, and high-performance computing.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -123,7 +123,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: 'G-CKHMC4GMEW' # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: "G-CKHMC4GMEW" # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)

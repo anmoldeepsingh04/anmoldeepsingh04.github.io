@@ -158,17 +158,17 @@ Key linkage points:
 
 ## Collections & pages
 
-| Path | Type | Permalink | Rendered by | Notes |
-|------|------|-----------|-------------|-------|
-| `_pages/about.md` | page | `/` (home) | `about` layout | Bio, profile image, news feed, socials |
-| `_pages/projects.md` | page | `/projects/` | `page` layout | Grid of `_projects/*` (masonry if enabled) |
-| `_pages/news.md` | page | `/news/` | `page` layout | Full news list (`news.liquid`) |
-| `_pages/cv.md` | page | `/cv/` | `cv` layout | CV from `cv.yml` or `resume.json`; PDF link |
-| `_pages/repositories.md` | page | `/repositories/` | `page` layout | GitHub stats from `repositories.yml` |
-| `_pages/404.md` | page | `/404.html` | `page` layout | Not-found page |
-| `_news/announcement_*.md` | collection | `/news/<title>/` | `post` layout | Announcements; shown on home (limited) |
-| `_projects/*.md` | collection | `/projects/<title>/` | `page`/`post` layout | Project cards; `importance` controls order |
-| `_posts/*.md` | posts | `/blog/<year>/<title>/` | `post` layout | Blog; paginated + archived by tag/year |
+| Path                      | Type       | Permalink               | Rendered by          | Notes                                       |
+| ------------------------- | ---------- | ----------------------- | -------------------- | ------------------------------------------- |
+| `_pages/about.md`         | page       | `/` (home)              | `about` layout       | Bio, profile image, news feed, socials      |
+| `_pages/projects.md`      | page       | `/projects/`            | `page` layout        | Grid of `_projects/*` (masonry if enabled)  |
+| `_pages/news.md`          | page       | `/news/`                | `page` layout        | Full news list (`news.liquid`)              |
+| `_pages/cv.md`            | page       | `/cv/`                  | `cv` layout          | CV from `cv.yml` or `resume.json`; PDF link |
+| `_pages/repositories.md`  | page       | `/repositories/`        | `page` layout        | GitHub stats from `repositories.yml`        |
+| `_pages/404.md`           | page       | `/404.html`             | `page` layout        | Not-found page                              |
+| `_news/announcement_*.md` | collection | `/news/<title>/`        | `post` layout        | Announcements; shown on home (limited)      |
+| `_projects/*.md`          | collection | `/projects/<title>/`    | `page`/`post` layout | Project cards; `importance` controls order  |
+| `_posts/*.md`             | posts      | `/blog/<year>/<title>/` | `post` layout        | Blog; paginated + archived by tag/year      |
 
 Collections are declared in `_config.yml` under `collections:` with `output: true` and a `permalink` pattern. The `announcements:` and `latest_posts:` blocks control how many items surface on the home page.
 
@@ -195,18 +195,18 @@ Jekyll uses a **layout chain**: a page's `layout:` front-matter value points to 
 
 Beyond the gems in `Gemfile` (jekyll-scholar, jekyll-feed, jekyll-paginate-v2, jekyll-archives, jekyll-imagemagick, jekyll-minifier, terser, jemoji, etc.), this repo ships custom Ruby plugins in `_plugins/`:
 
-| Plugin | Purpose |
-|--------|---------|
-| `cache-bust.rb` | Appends content hashes to asset URLs to defeat browser caching |
-| `details.rb` | Adds a `<details>`/`summary` block tag for collapsible content |
-| `download-3rd-party.rb` | Downloads third-party JS/CSS libraries listed in `_config.yml` for local/offline use |
-| `external-posts.rb` | Pulls in blog posts from external RSS feeds (`external_sources` in config) |
-| `file-exists.rb` | Liquid filter/`file_exists` helper to check asset existence at build time |
-| `google-scholar-citations.rb` | Fetches citation counts for publications (Google Scholar badge) |
-| `hide-custom-bibtex.rb` | Filters internal BibTeX keywords out of rendered `.bib` output |
-| `inspirehep-citations.rb` | Fetches citation counts from INSPIRE-HEP (InspireHEP badge) |
-| `remove-accents.rb` | Normalizes author names (strips diacritics) for scholar matching |
-| `terser.rb` | Minifies JavaScript via Terser during the build |
+| Plugin                        | Purpose                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------ |
+| `cache-bust.rb`               | Appends content hashes to asset URLs to defeat browser caching                       |
+| `details.rb`                  | Adds a `<details>`/`summary` block tag for collapsible content                       |
+| `download-3rd-party.rb`       | Downloads third-party JS/CSS libraries listed in `_config.yml` for local/offline use |
+| `external-posts.rb`           | Pulls in blog posts from external RSS feeds (`external_sources` in config)           |
+| `file-exists.rb`              | Liquid filter/`file_exists` helper to check asset existence at build time            |
+| `google-scholar-citations.rb` | Fetches citation counts for publications (Google Scholar badge)                      |
+| `hide-custom-bibtex.rb`       | Filters internal BibTeX keywords out of rendered `.bib` output                       |
+| `inspirehep-citations.rb`     | Fetches citation counts from INSPIRE-HEP (InspireHEP badge)                          |
+| `remove-accents.rb`           | Normalizes author names (strips diacritics) for scholar matching                     |
+| `terser.rb`                   | Minifies JavaScript via Terser during the build                                      |
 
 ---
 
@@ -283,7 +283,7 @@ GitHub Actions in `.github/workflows/` enforce quality:
 - **lighthouse-badger.yml** — performance/accessibility scores (results in `lighthouse_results/`).
 - **axe.yml** — accessibility testing (manual-friendly).
 - **codeql.yml** — static security analysis.
-- **deploy*.yml / docker-slim.yml** — build & container image publishing.
+- **deploy\*.yml / docker-slim.yml** — build & container image publishing.
 
 Pre-commit hooks are configured in `.pre-commit-config.yaml`.
 
@@ -291,22 +291,22 @@ Pre-commit hooks are configured in `.pre-commit-config.yaml`.
 
 ## Quick reference: where to edit what
 
-| I want to change… | Edit this |
-|-------------------|-----------|
-| Site title, name, email, description | `_config.yml` (Site settings) |
-| Social/contact links | `_data/socials.yml` (+ matching `*_username` in `_config.yml`) |
-| Home bio & profile photo | `_pages/about.md` (text) and `assets/img/prof_pic.jpg` |
-| News items on home /news | `_news/announcement_*.md` |
-| Projects grid | `_projects/*.md` (+ thumbnails in `assets/img/`) |
-| Publications list | `_bibliography/papers.bib` (+ PDFs in `assets/pdf/`) |
-| CV content | `assets/json/resume.json` (preferred) or `_data/cv.yml` |
-| GitHub repos page | `_data/repositories.yml` |
-| Blog posts | `_posts/*.md` |
-| Page nav order / new page | `_pages/*.md` front matter (`nav`, `nav_order`) |
-| Colors / theme | `_sass/_themes.scss`, `_sass/_variables.scss` |
-| Header / footer / scripts | `_includes/header.liquid`, `footer.liquid`, `scripts.liquid` |
-| Citation badges | `_plugins/google-scholar-citations.rb`, `inspirehep-citations.rb` |
-| Deploy behavior | `bin/deploy` or `.github/workflows/deploy.yml` |
+| I want to change…                    | Edit this                                                         |
+| ------------------------------------ | ----------------------------------------------------------------- |
+| Site title, name, email, description | `_config.yml` (Site settings)                                     |
+| Social/contact links                 | `_data/socials.yml` (+ matching `*_username` in `_config.yml`)    |
+| Home bio & profile photo             | `_pages/about.md` (text) and `assets/img/prof_pic.jpg`            |
+| News items on home /news             | `_news/announcement_*.md`                                         |
+| Projects grid                        | `_projects/*.md` (+ thumbnails in `assets/img/`)                  |
+| Publications list                    | `_bibliography/papers.bib` (+ PDFs in `assets/pdf/`)              |
+| CV content                           | `assets/json/resume.json` (preferred) or `_data/cv.yml`           |
+| GitHub repos page                    | `_data/repositories.yml`                                          |
+| Blog posts                           | `_posts/*.md`                                                     |
+| Page nav order / new page            | `_pages/*.md` front matter (`nav`, `nav_order`)                   |
+| Colors / theme                       | `_sass/_themes.scss`, `_sass/_variables.scss`                     |
+| Header / footer / scripts            | `_includes/header.liquid`, `footer.liquid`, `scripts.liquid`      |
+| Citation badges                      | `_plugins/google-scholar-citations.rb`, `inspirehep-citations.rb` |
+| Deploy behavior                      | `bin/deploy` or `.github/workflows/deploy.yml`                    |
 
 ---
 

@@ -10,7 +10,7 @@ giscus_comments: false
 ---
 
 **IIT Goa Motorsport Club**  
-**Anmoldeep Singh, Mechanical Team Lead** 
+**Anmoldeep Singh, Mechanical Team Lead**
 
 ---
 

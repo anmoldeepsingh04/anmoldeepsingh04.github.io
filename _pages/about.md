@@ -9,9 +9,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
-    <p><em>Kalu Waterfall, five-tiered cascading waterfall. 
-      Maharashtra, India</em></p>
+  more_info: <p><em>Kalu Waterfall, five-tiered cascading waterfall.
+    Maharashtra, India</em></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,7 +23,7 @@ I am Anmoldeep, an Innovation Engineer at the Innovation department of Thermax L
 
 My academic curiosity lies at the intersection of Computational Sciences and Engineering Applications, with a strong focus on CFD, Sustainable Computing and HPC. I am a firm believer that traditional mechanical engineering can be enhanced multifold by integrating data-driven methods and help identify hidden structures and symmetries that are inaccessible via conventional techniques. By leveraging the potential of Machine Learning and Computational Modeling, we can push the boundaries of engineering innovation, enabling smarter, more efficient, and sustainable solutions across industries.
 
-In my professional role, I am primarily working in the Alternate and Renewable Energy space. I have developed control systems for biomass fired boilers using data-driven techniques and worked on designing biogas and green hydrogen purification plants. I have oriented my career towards the integration of computational methods in design and product development. My work focuses on bridging the gap between computational modeling and practical engineering applications, with a particular emphasis on energy and sustainability. 
+In my professional role, I am primarily working in the Alternate and Renewable Energy space. I have developed control systems for biomass fired boilers using data-driven techniques and worked on designing biogas and green hydrogen purification plants. I have oriented my career towards the integration of computational methods in design and product development. My work focuses on bridging the gap between computational modeling and practical engineering applications, with a particular emphasis on energy and sustainability.
 
 Outside my professional and academic endeavors, I'm an avid basketball player who loves delving into mathematics and exploring its profound influence on our understanding of the universe. From watching mathematical infotainment to pondering the Many-Worlds Interpretation of Quantum Mechanics and the ultimate fate of Schrödinger's poor cat, my interests are deeply rooted in the objectivity of our world, curiosity, and critical thinking. I am also deeply engaged in reading about societal issues, all of which enrich my perspective and pushes me to develop solutions that prioritize both human well-being and climate sustainability.
 

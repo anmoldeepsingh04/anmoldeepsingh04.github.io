@@ -10,6 +10,7 @@ importance: 4
 ---
 
 ## **Abstract**
+
 <ul>
     <li>Developed a hybrid mathematical model by integrating data-driven models for combustion and heat transfer with a physics-based model for boiler dynamics to control water level and pressure by dynamically adjusting combustion parameters based on changes in fuel type and ambient conditions</li>
     <li>Implemented SGD (Stochastic Gradient Descent) with ADAM optimizer to improve model parameters</li>
@@ -19,9 +20,11 @@ importance: 4
 ---
 
 ## **Description**
+
 Grate-fired boilers, commonly used in industrial applications, face significant challenges in pressure and water level control due to combustion lag and fluctuating fuel properties. The problem is particularly evident in coal-fired grate boilers, where lower volatile content and higher char content lead to delayed combustion and poor response to steam demand changes. Traditional modeling methods struggle to predict and control these fluctuations, resulting in suboptimal performance, inefficient combustion, and increased operational instability.
 
 Several approaches have been attempted to model boiler dynamics:
+
 <ul>
     <li>Physics-Based Models
         <ul>
@@ -46,6 +49,7 @@ Several approaches have been attempted to model boiler dynamics:
 </ul>
 
 The paper proposes a hybrid predictive modeling approach that integrates:
+
 <ul>
     <li>A thermodynamic boiler dynamics model to improve consistency and reduce randomness</li>
     <li>A data-driven model to estimate combustion rate, heat transfer, and circulation performance dynamically</li>
@@ -60,6 +64,7 @@ The paper proposes a hybrid predictive modeling approach that integrates:
 The multi-objective optimization technique (scalarization) is used to minimize pressure and water level errors in the model
 
 Key findings include:
+
 <ul>
     <li>Improved prediction accuracy: The model showed a 95% agreement with on-site data on validation</li>
     <li>Real-time adaptability: The SGD algorithm captured fluctuations in fuel properties and adjusted model parameters accordingly, reducing prediction errors in dynamic conditions. Unlike traditional models, it accounted for slagging, fouling, and timewise heat transfer deterioration</li>
@@ -67,4 +72,3 @@ Key findings include:
 </ul>
 
 The proposed hybrid model with SGD optimization effectively enhances the predictability and control of grate-fired boilers, making it a promising tool for improving combustion efficiency, reducing pressure fluctuations, and optimizing boiler operations under varying load conditions.
-
