@@ -45,26 +45,44 @@ ninja.data = [{
           section: "News",},{id: "news-joined-tu-munich-for-ms-computational-science-and-engineering",
           title: 'Joined TU Munich for MS Computational Science and Engineering',
           description: "",
-          section: "News",},{id: "projects-turbulent-combustion-modeling-using-deep-learning",
+          section: "News",},{id: "news-started-a-student-researcher-position-at-the-tum-school-of-engineering-and-design",
+          title: 'Started a Student Researcher position at the TUM School of Engineering and Design...',
+          description: "",
+          section: "News",},{id: "projects-deep-learning-framework-in-c",
+          title: 'Deep Learning Framework in C++',
+          description: "PyTorch-inspired deep learning framework implemented from scratch using standard C++",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_dl_cpp/";
+            },},{id: "projects-genetic-algorithm-for-cfd-geometry-optimization",
+          title: 'Genetic Algorithm for CFD Geometry Optimization',
+          description: "Evolutionary optimization of CFD geometries using simulation-based drag evaluation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_ga_cfd/";
+            },},{id: "projects-turbulent-combustion-modeling-using-deep-learning",
           title: 'Turbulent Combustion Modeling Using Deep Learning',
           description: "Artificial Neural Network to model CH₄/H₂ bluff-body turbulent combustion",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-fmae-fkdc-2021",
-          title: 'FMAE-FKDC 2021',
-          description: "Go-Kart Design Challenge",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-minicea",
-          title: 'MiniCEA',
-          description: "Thermochemical calculator to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_turbulent_combustion_dl/";
             },},{id: "projects-smart-boiler-control",
           title: 'Smart Boiler Control',
           description: "Using Machine Learning and Predictive Modeling for pressure and water-level control",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/4_smart_boiler_control/";
+            },},{id: "projects-neural-network-from-scratch-in-python",
+          title: 'Neural Network from Scratch in Python',
+          description: "Implementation and training of a neural network from first principles without deep learning frameworks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_nn_python/";
+            },},{id: "projects-minicea",
+          title: 'MiniCEA',
+          description: "Thermochemical calculator to calculate Adiabatic Flame Temperature and Heat of Reaction for various fuels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_minicea/";
+            },},{id: "projects-fmae-fkdc-2021",
+          title: 'FMAE-FKDC 2021',
+          description: "Go-Kart Design Challenge",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_goKart_design/";
             },},{
         id: 'social-email',
         title: 'email',
