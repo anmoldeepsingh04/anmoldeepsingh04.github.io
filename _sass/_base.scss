@@ -538,6 +538,52 @@ footer.sticky-bottom {
 
 // Repositories
 
+.repo-user-card {
+  width: 100%;
+  padding: 1.5rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.75rem;
+  background-color: var(--global-card-bg-color);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgb(0 0 0 / 10%);
+  }
+}
+
+.repo-user-link {
+  text-decoration: none !important;
+  color: var(--global-text-color) !important;
+}
+
+.repo-user-icon {
+  font-size: 3rem;
+  margin-bottom: 0.75rem;
+  color: var(--global-text-color);
+}
+
+.repo-user-name {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.repo-user-description {
+  margin-bottom: 1rem;
+  color: var(--global-text-color-light);
+}
+
+.repo-user-button {
+  display: inline-block;
+  padding: 0.4rem 0.9rem;
+  border-radius: 0.4rem;
+  background-color: var(--global-theme-color);
+  color: white;
+  font-size: 0.9rem;
+}
+
 .repositories {
   margin-left: -0.5rem;
   margin-right: -0.5rem;

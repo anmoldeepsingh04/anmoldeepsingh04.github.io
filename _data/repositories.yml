@@ -1,6 +1,3 @@
-github_users:
-  - anmoldeepsingh04
-
 repo_description_lines_max: 2
 
 github_repos:
@@ -33,3 +30,6 @@ github_repos:
     description: "Collection of programming experiments and code snippets."
     technologies: "Python | C++"
     url: "https://github.com/anmoldeepsingh04/codes"
+
+github_users:
+  - anmoldeepsingh04
