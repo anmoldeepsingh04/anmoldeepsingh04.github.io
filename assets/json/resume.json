@@ -1,0 +1,190 @@
+{
+"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+
+"basics": {
+"name": "Anmoldeep Singh",
+"label": "Computational Science and Engineering",
+"email": "anmoldeep1268@gmail.com",
+"url": "https://anmoldeepsingh04.github.io/",
+"summary": "An aspiring researcher in the field of Computational Engineering and Sustainable Methods. I am interested in leveraging Computational Fluid Dynamics (CFD), Deep Learning (DL), and High Performance Computing to develop energy-efficient computational models for engineering and scientific applications.",
+"location": {
+"city": "Munich",
+"countryCode": "DE"
+},
+"profiles": [
+{
+"network": "GitHub",
+"username": "anmoldeepsingh04",
+"url": "https://github.com/anmoldeepsingh04"
+},
+{
+"network": "LinkedIn",
+"username": "anmoldeep-singh",
+"url": "https://www.linkedin.com/"
+}
+]
+},
+
+"work": [
+{
+"name": "Thermax Limited",
+"location": "Pune, India",
+"position": "Innovation Engineer",
+"startDate": "2022-01-01",
+"summary": "Worked on engineering innovation projects in the alternate and renewable energy space.",
+"highlights": [
+"Specialized in mathematical modeling of heat exchangers and biomass for sustainable combustion.",
+"Gained experience in heat exchanger manufacturing, quality assurance, industrial safety, troubleshooting, and failure analysis.",
+"Developed a mathematical model for biomass-fired boilers.",
+"Worked on renewable fuels, with a major focus on biomass.",
+"Conducted Temperature Swing Adsorption benchmarking studies for green hydrogen purification.",
+"Worked on purification and upgrading of biomethane and green hydrogen."
+]
+}
+],
+
+"education": [
+{
+"institution": "Technical University of Munich",
+"location": "Munich, Germany",
+"area": "Computational Science and Engineering",
+"studyType": "Master of Science",
+"startDate": "2025-10-01",
+"endDate": "",
+"url": "https://www.tum.de/"
+},
+{
+"institution": "Indian Institute of Technology Goa",
+"location": "Goa, India",
+"area": "Mechanical Engineering",
+"studyType": "Bachelor of Technology",
+"startDate": "2018-08-01",
+"endDate": "2022-07-01",
+"url": "https://iitgoa.ac.in/",
+"courses": [
+"Computational Fluid Dynamics",
+"Turbulent Flows",
+"Scientific and Parallel Programming",
+"Gas Dynamics",
+"Introduction to Combustion",
+"Econometric Data Science",
+"Introduction to Quantitative Finance"
+]
+},
+{
+"institution": "Kendriya Vidyalaya Itarana",
+"location": "Rajasthan, India",
+"studyType": "Higher Secondary",
+"startDate": "2015-04-01",
+"endDate": "2017-03-01",
+"score": "88%"
+}
+],
+
+"awards": [
+{
+"title": "1st Place — FMAE-FKDC Go-Kart Design Competition",
+"date": "2021"
+},
+{
+"title": "3rd Place — National Seminar Presentation at Tech-Tantra",
+"date": "2021"
+}
+],
+
+"skills": [
+{
+"name": "Computational Fluid Dynamics",
+"keywords": [
+"CFD",
+"Fluid Mechanics",
+"Heat Transfer",
+"Turbulence Modeling"
+]
+},
+{
+"name": "Machine Learning",
+"keywords": [
+"Deep Learning",
+"Data-driven Modeling"
+]
+},
+{
+"name": "High Performance Computing",
+"keywords": [
+"Parallel Computing"
+]
+},
+{
+"name": "Computational Engineering",
+"keywords": [
+"Mathematical Modeling",
+"Sustainable Methods",
+"Engineering Simulation"
+]
+}
+],
+
+"languages": [
+{
+"language": "English",
+"fluency": "C1"
+},
+{
+"language": "German",
+"fluency": "Beginner"
+},
+{
+"language": "Hindi",
+"fluency": "Native"
+},
+{
+"language": "Punjabi",
+"fluency": "Native"
+}
+],
+
+"interests": [
+{
+"name": "Computational Fluid Dynamics",
+"keywords": [
+"High-fidelity numerical models",
+"Fluid flow",
+"Heat transfer",
+"Turbulence modeling"
+]
+},
+{
+"name": "Deep Learning",
+"keywords": [
+"Data-driven turbulence modeling",
+"Reduced-order fluid simulations",
+"CFD acceleration",
+"Fluid system optimization"
+]
+},
+{
+"name": "Quantum Computing",
+"keywords": [
+"Quantum algorithms",
+"Fluid dynamics",
+"Quantum optimization",
+"Inverse problems"
+]
+},
+{
+"name": "Sustainable Methods",
+"keywords": [
+"Energy-efficient CFD",
+"Renewable energy",
+"Emissions reduction",
+"Sustainable engineering"
+]
+}
+],
+
+"volunteer": [],
+"publications": [],
+"projects": [],
+"references": []
+}

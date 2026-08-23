@@ -5,7 +5,7 @@ description: Thermochemical calculator to calculate Adiabatic Flame Temperature 
 technologies: Python | Applied Thermodynamics | Reaction Mechanisms | Combustion | Graph Plotting
 img: assets/img/MiniCEA.jpg
 importance: 3
-# category: Academic
+category: Personal
 ---
 
 **Author:** Anmoldeep Singh  

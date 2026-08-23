@@ -5,7 +5,7 @@ description: Artificial Neural Network to model CH₄/H₂ bluff-body turbulent 
 technologies: Deep Learning | Turbulence Modeling | CFD | Python | OpenFOAM | FPV | Visualization | Combustion | Linux
 img: assets/img/combustion.jpg
 importance: 1
-# category: Academic
+category: Academic
 related_publications: false
 ---
 

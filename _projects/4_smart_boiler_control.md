@@ -5,7 +5,7 @@ description: Using Machine Learning and Predictive Modeling for pressure and wat
 technologies: VBA | Python | Data-Driven Modeling | SGD | ADAM | Combustion | Heat-Transfer | Multi-Objective Optimization
 img: assets/img/BoilerDynamics.jpg
 importance: 4
-# category: Professional
+category: Professional
 ---
 
 ## **Abstract**
