@@ -83,6 +83,11 @@ ninja.data = [{
           description: "Go-Kart Design Challenge",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_goKart_design/";
+            },},{id: "projects-steel-microstructure-analysis-and-machine-learning",
+          title: 'Steel Microstructure Analysis and Machine Learning',
+          description: "Research Software for Steel Microstructure Analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_steel_microstructure/";
             },},{
         id: 'social-email',
         title: 'email',
