@@ -3,7 +3,7 @@ layout: page
 title: Steel Microstructure Analysis and Machine Learning
 description: Research Software for Steel Microstructure Analysis
 technologies: Python | Machine Learning | Computer Vision | Streamlit | Scientific Computing | Data Analysis
-img: assets/img/steel_microstructure.jpg
+img: assets/img/steel_microstructure.png
 importance: 1
 category: Professional
 giscus_comments: false
@@ -11,6 +11,13 @@ giscus_comments: false
 
 **TUM — Student Researcher**
 **Anmoldeep Singh**
+
+<div style="display: flex; justify-content: center; gap: 2rem; align-items: center; margin-bottom: 2rem;">
+  <a href="https://iron-carbon-simulator.streamlit.app/" target="_blank" style="text-decoration: none; text-align: center;">
+    <i class="fas fa-globe fa-3x"></i><br>
+    <span>Project Website</span>
+  </a>
+</div>
 
 ---
 

@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 # redirect_to: /assets/pdf/Curriculum_Vitae.pdf
 cv_pdf: Curriculum_Vitae.pdf
-description: This page showcases my academic journey, work experience, and research interests. For collaborations or inquiries, feel free to connect with me.
+description:
 # toc:
 #   sidebar: left
 ---

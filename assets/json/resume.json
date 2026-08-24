@@ -3,15 +3,11 @@
 
   "basics": {
     "name": "Anmoldeep Singh",
-    "label": "M.Sc. Computational Science and Engineering | Scientific Computing | CFD | Machine Learning",
+    "program": "M.Sc. Computational Science and Engineering",
     "email": "anmoldeep.singh@tum.de",
     "phone": "+49 15510 940823",
-    "url": "https://anmoldeepsingh04.github.io/",
     "summary": "Master's student in Computational Science and Engineering at the Technical University of Munich with a background in Mechanical Engineering and industrial experience in computational modeling, renewable energy, and engineering innovation. Interested in scientific computing, computational fluid dynamics, numerical methods, machine learning, and high-performance computing, with a particular interest in combining physics-based and data-driven methods for scientific and engineering applications.",
-    "location": {
-      "city": "Munich",
-      "countryCode": "DE"
-    },
+    "location": "Munich",
     "profiles": [
       {
         "network": "GitHub",
@@ -38,19 +34,6 @@
         "Developing automated high-throughput simulation workflows for Ni-based alloy design using Python and CALPHAD models.",
         "Analyzing phase diagrams, microstructure evolution, and composition–property relationships using large-scale simulation data.",
         "Optimizing computational workflows to support advanced alloy development."
-      ]
-    },
-    {
-      "name": "Technical University of Munich",
-      "location": "Munich, Germany",
-      "position": "Working Student",
-      "startDate": "PLACEHOLDER",
-      "endDate": "",
-      "summary": "Working on computational and machine learning methods for scientific applications.",
-      "highlights": [
-        "PLACEHOLDER — Add your exact working-student responsibilities.",
-        "PLACEHOLDER — Add specific models, datasets, computational methods, or scientific applications.",
-        "PLACEHOLDER — Add measurable results or outcomes where applicable."
       ]
     },
     {
@@ -81,7 +64,15 @@
       "studyType": "Master of Science",
       "startDate": "2025-10-01",
       "endDate": "",
-      "url": "https://www.tum.de/"
+      "url": "https://www.cit.tum.de/cit/studium/studiengaenge/master-computational-science-engineering/",
+      "courses": [
+        "Numerical Programming 1",
+        "Scientific Computing 1",
+        "Advanced Programming in C++",
+        "Introduction to Deep Learning",
+        "Scietific Machine Learning",
+        "CFDLab Practical"
+      ]
     },
     {
       "institution": "Indian Institute of Technology Goa",
@@ -116,6 +107,8 @@
   "projects": [
     {
       "name": "Aerodynamic Shape Optimization using CFD and Genetic Algorithms",
+      "startDate": "Summer Sem",
+      "endDate": "26",
       "description": "Automated aerodynamic optimization framework coupling an in-house CFD solver with a Genetic Algorithm to optimize geometries for reduced drag.",
       "keywords": ["C++", "Python", "CFD", "Genetic Algorithms", "Optimization", "Computational Geometry"],
       "highlights": [
@@ -126,6 +119,8 @@
     },
     {
       "name": "Turbulent Combustion Modeling using Deep Learning",
+      "startDate": "Fall Sem",
+      "endDate": "21",
       "description": "Deep-learning surrogate model for CH4-H2 turbulent combustion integrated with OpenFOAM.",
       "keywords": ["Deep Learning", "CFD", "OpenFOAM", "Python", "Turbulence Modeling", "Combustion"],
       "highlights": [
@@ -137,6 +132,8 @@
     },
     {
       "name": "Deep Learning Framework in C++",
+      "startDate": "Summer Sem",
+      "endDate": "26",
       "description": "PyTorch-inspired deep learning framework implemented from scratch in modern C++ using standard libraries.",
       "keywords": ["C++", "Deep Learning", "Neural Networks", "Tensor", "Automatic Differentiation", "CMake"],
       "highlights": [
@@ -149,6 +146,8 @@
     },
     {
       "name": "Neural Network from Scratch in Python",
+      "startDate": "Summer Sem",
+      "endDate": "26",
       "description": "Implementation of a neural network from scratch using Python and fundamental numerical operations.",
       "keywords": ["Python", "Neural Networks", "Machine Learning", "MNIST"],
       "highlights": [
@@ -159,6 +158,8 @@
     },
     {
       "name": "Smart Boiler Control",
+      "startDate": "Winter",
+      "endDate": "24",
       "description": "Hybrid mathematical and data-driven modeling framework for boiler pressure and water-level control.",
       "keywords": ["Python", "Machine Learning", "Mathematical Modeling", "SGD", "ADAM", "Combustion", "Heat Transfer", "Optimization"],
       "highlights": [
@@ -170,6 +171,8 @@
     },
     {
       "name": "MiniCEA",
+      "startDate": "Summer Sem",
+      "endDate": "19",
       "description": "Thermochemical calculator for computing adiabatic flame temperature and heat of reaction for different fuel families.",
       "keywords": ["Python", "Thermodynamics", "Combustion", "Reaction Mechanisms", "Data Processing"],
       "highlights": [
@@ -180,6 +183,8 @@
     },
     {
       "name": "FMAE-FKDC 2021 Go-Kart Design Challenge",
+      "startDate": "Summer Sem",
+      "endDate": "21",
       "description": "Go-Kart design and simulation project conducted as part of the IIT Goa Motorsport Club.",
       "keywords": ["SolidWorks", "Ansys Workbench", "Mechanical Design", "Simulation", "Team Leadership"],
       "highlights": [
