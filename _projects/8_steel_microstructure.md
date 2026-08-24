@@ -13,10 +13,12 @@ giscus_comments: false
 **Anmoldeep Singh**
 
 <div style="display: flex; justify-content: center; gap: 2rem; align-items: center; margin-bottom: 2rem;">
-  <a href="https://iron-carbon-simulator.streamlit.app/" target="_blank" style="text-decoration: none; text-align: center;">
-    <i class="fas fa-globe fa-3x"></i><br>
-    <span>Project Website</span>
+
+<a href="https://github.com/anmoldeepsingh04/app_deploy_test" target="_blank" style="text-decoration: none; text-align: center;">
+    <i class="fab fa-github fa-3x"></i><br>
+    <span>GitHub Repository</span>
   </a>
+  
 </div>
 
 ---
