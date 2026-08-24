@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Some info about my GitHub profile and the projects I&#39;ve worked on",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This page showcases my academic journey, work experience, and research interests. For collaborations or inquiries, feel free to connect with me.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
