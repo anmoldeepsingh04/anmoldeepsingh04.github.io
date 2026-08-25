@@ -107,7 +107,7 @@
   "projects": [
     {
       "name": "Aerodynamic Shape Optimization using CFD and Genetic Algorithms",
-      "startDate": "Summer Sem",
+      "startDate": "Summer",
       "endDate": "26",
       "description": "Automated aerodynamic optimization framework coupling an in-house CFD solver with a Genetic Algorithm to optimize geometries for reduced drag.",
       "keywords": ["C++", "Python", "CFD", "Genetic Algorithms", "Optimization", "Computational Geometry"],
@@ -119,7 +119,7 @@
     },
     {
       "name": "Turbulent Combustion Modeling using Deep Learning",
-      "startDate": "Fall Sem",
+      "startDate": "Winter",
       "endDate": "21",
       "description": "Deep-learning surrogate model for CH4-H2 turbulent combustion integrated with OpenFOAM.",
       "keywords": ["Deep Learning", "CFD", "OpenFOAM", "Python", "Turbulence Modeling", "Combustion"],
@@ -132,7 +132,7 @@
     },
     {
       "name": "Deep Learning Framework in C++",
-      "startDate": "Summer Sem",
+      "startDate": "Summer",
       "endDate": "26",
       "description": "PyTorch-inspired deep learning framework implemented from scratch in modern C++ using standard libraries.",
       "keywords": ["C++", "Deep Learning", "Neural Networks", "Tensor", "Automatic Differentiation", "CMake"],
@@ -146,7 +146,7 @@
     },
     {
       "name": "Neural Network from Scratch in Python",
-      "startDate": "Summer Sem",
+      "startDate": "Summer",
       "endDate": "26",
       "description": "Implementation of a neural network from scratch using Python and fundamental numerical operations.",
       "keywords": ["Python", "Neural Networks", "Machine Learning", "MNIST"],
@@ -171,7 +171,7 @@
     },
     {
       "name": "MiniCEA",
-      "startDate": "Summer Sem",
+      "startDate": "Summer",
       "endDate": "19",
       "description": "Thermochemical calculator for computing adiabatic flame temperature and heat of reaction for different fuel families.",
       "keywords": ["Python", "Thermodynamics", "Combustion", "Reaction Mechanisms", "Data Processing"],
@@ -183,7 +183,7 @@
     },
     {
       "name": "FMAE-FKDC 2021 Go-Kart Design Challenge",
-      "startDate": "Summer Sem",
+      "startDate": "Summer",
       "endDate": "21",
       "description": "Go-Kart design and simulation project conducted as part of the IIT Goa Motorsport Club.",
       "keywords": ["SolidWorks", "Ansys Workbench", "Mechanical Design", "Simulation", "Team Leadership"],
