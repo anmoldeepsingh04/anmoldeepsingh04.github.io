@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a Student Researcher position at the TUM School of Engineering and Design
+Started a Student Researcher position at the TUM School of Engineering and Design.
