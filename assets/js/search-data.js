@@ -46,7 +46,7 @@ ninja.data = [{
           title: 'Joined TU Munich for MS Computational Science and Engineering',
           description: "",
           section: "News",},{id: "news-started-a-student-researcher-position-at-the-tum-school-of-engineering-and-design",
-          title: 'Started a Student Researcher position at the TUM School of Engineering and Design...',
+          title: 'Started a Student Researcher position at the TUM School of Engineering and Design....',
           description: "",
           section: "News",},{id: "projects-deep-learning-framework-in-c",
           title: 'Deep Learning Framework in C++',
