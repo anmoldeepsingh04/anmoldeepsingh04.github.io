@@ -49,7 +49,7 @@ ninja.data = [{
           title: 'Started Student Researcher position at the TUM School of Engineering and Design.',
           description: "",
           section: "News",},{id: "news-started-tum-data-innovation-lab-project-in-collaboration-with-dlr",
-          title: 'Started TUM Data Innovation Lab project in collaboration with DLR.',
+          title: 'Started TUM Data Innovation Lab Project in collaboration with DLR.',
           description: "",
           section: "News",},{id: "projects-deep-learning-framework-in-c",
           title: 'Deep Learning Framework in C++',
