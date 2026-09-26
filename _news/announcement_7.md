@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started TUM Data Innovation Lab project in collaboration with DLR.
+Started TUM Data Innovation Lab Project in collaboration with DLR.
