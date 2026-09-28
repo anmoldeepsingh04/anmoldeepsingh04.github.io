@@ -25,7 +25,7 @@ giscus_comments: false
 
 ## **Abstract**
 
-This project was developed as part of my work as a Student Researcher at the Technical University of Munich, focusing on the application of machine learning and scientific computing techniques to materials engineering and steel microstructure analysis.
+This project is developed as part of my work as a Student Researcher at the Technical University of Munich, focusing on the application of machine learning and scientific computing techniques to materials engineering and steel microstructure analysis.
 
 The project involved developing a Python-based application to process and analyze microstructural data, providing an interactive interface for exploring computational results and applying machine-learning-based analysis. The work combines scientific data processing, machine learning, and software engineering to create a reproducible workflow for materials-science research.
 
