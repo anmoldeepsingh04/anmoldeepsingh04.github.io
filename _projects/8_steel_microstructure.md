@@ -9,16 +9,20 @@ category: Professional
 giscus_comments: false
 ---
 
-**TUM — Student Researcher**
-**Anmoldeep Singh**
+**TUM - Student Researcher**
 
 <div style="display: flex; justify-content: center; gap: 2rem; align-items: center; margin-bottom: 2rem;">
 
-<a href="https://github.com/anmoldeepsingh04/app_deploy_test" target="_blank" style="text-decoration: none; text-align: center;">
+  <a href="https://github.com/anmoldeepsingh04/app_deploy_test" target="_blank" rel="noopener noreferrer" style="text-decoration: none; text-align: center;">
     <i class="fab fa-github fa-3x"></i><br>
     <span>GitHub Repository</span>
   </a>
-  
+
+  <a href="https://iron-carbon-simulator.streamlit.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; text-align: center;">
+    <i class="fas fa-external-link-alt fa-3x"></i><br>
+    <span>Live Application</span>
+  </a>
+
 </div>
 
 ---
